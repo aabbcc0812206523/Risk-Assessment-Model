@@ -1,0 +1,1981 @@
+14970 mean_square_loss: 3.8044105167500675e-05
+mean_multi real mean power error: 0.32135364413261414 valid loss 4.9464630137663335e-05
+14980 mean_square_loss: 5.30636998519185e-06
+mean_multi real mean power error: 0.2941772937774658 valid loss 3.889063737005927e-05
+14990 mean_square_loss: 2.297196988365613e-05
+mean_multi real mean power error: 0.28536632657051086 valid loss 3.3016771340044215e-05
+15000 mean_square_loss: 8.255489774455782e-06
+mean_multi real mean power error: 0.26905784010887146 valid loss 3.166536771459505e-05
+15010 mean_square_loss: 1.3505989954865072e-05
+mean_multi real mean power error: 0.2681577503681183 valid loss 3.0293958843685687e-05
+15020 mean_square_loss: 5.952284482191317e-06
+mean_multi real mean power error: 0.2540637254714966 valid loss 2.841627792804502e-05
+15030 mean_square_loss: 9.027519809023943e-06
+mean_multi real mean power error: 0.28618377447128296 valid loss 3.6965964682167396e-05
+15040 mean_square_loss: 9.893968126561958e-06
+mean_multi real mean power error: 0.2918327748775482 valid loss 3.647630364866927e-05
+15050 mean_square_loss: 8.625615009805188e-06
+mean_multi real mean power error: 0.2522338628768921 valid loss 3.5497771023074165e-05
+15060 mean_square_loss: 2.4601973564131185e-05
+mean_multi real mean power error: 0.3071957230567932 valid loss 3.684946204884909e-05
+15070 mean_square_loss: 2.4718279746593907e-05
+mean_multi real mean power error: 0.274362713098526 valid loss 3.261915117036551e-05
+15080 mean_square_loss: 1.6730702554923482e-05
+mean_multi real mean power error: 0.2687467336654663 valid loss 2.888857306970749e-05
+15090 mean_square_loss: 8.359417734027375e-06
+mean_multi real mean power error: 0.27268505096435547 valid loss 2.9834181987098418e-05
+15100 mean_square_loss: 2.986707659147214e-05
+mean_multi real mean power error: 0.2826679050922394 valid loss 3.263445250922814e-05
+15110 mean_square_loss: 5.655293989548227e-06
+mean_multi real mean power error: 0.26212823390960693 valid loss 3.151613782392815e-05
+15120 mean_square_loss: 1.793385854398366e-05
+mean_multi real mean power error: 0.2674531042575836 valid loss 3.120948895229958e-05
+15130 mean_square_loss: 5.940954906691331e-06
+mean_multi real mean power error: 0.31267261505126953 valid loss 3.81295321858488e-05
+15140 mean_square_loss: 1.8502591046853922e-05
+mean_multi real mean power error: 0.29194387793540955 valid loss 3.562353958841413e-05
+15150 mean_square_loss: 8.032780897337943e-06
+mean_multi real mean power error: 0.2753429114818573 valid loss 3.088985977228731e-05
+15160 mean_square_loss: 4.878851086687064e-06
+mean_multi real mean power error: 0.26214686036109924 valid loss 2.9196857212809846e-05
+15170 mean_square_loss: 3.808825931628235e-05
+mean_multi real mean power error: 0.25063449144363403 valid loss 2.891032272600569e-05
+15180 mean_square_loss: 1.339146365353372e-05
+mean_multi real mean power error: 0.26363858580589294 valid loss 2.7345286071067676e-05
+15190 mean_square_loss: 2.6936759240925312e-05
+mean_multi real mean power error: 0.31779658794403076 valid loss 4.0336442907573655e-05
+15200 mean_square_loss: 1.5935293049551547e-05
+mean_multi real mean power error: 0.29953286051750183 valid loss 3.797615136136301e-05
+15210 mean_square_loss: 2.837451575032901e-05
+mean_multi real mean power error: 0.2926405370235443 valid loss 3.8786278309999034e-05
+15220 mean_square_loss: 8.526445526513271e-06
+mean_multi real mean power error: 0.2875951826572418 valid loss 3.667355122161098e-05
+15230 mean_square_loss: 2.9224229365354404e-05
+mean_multi real mean power error: 0.26588863134384155 valid loss 3.082750117755495e-05
+15240 mean_square_loss: 9.929357474902645e-06
+mean_multi real mean power error: 0.262744277715683 valid loss 2.8898446544189937e-05
+15250 mean_square_loss: 7.857004675315693e-06
+mean_multi real mean power error: 0.27202075719833374 valid loss 2.8610196750378236e-05
+15260 mean_square_loss: 3.718544394359924e-05
+mean_multi real mean power error: 0.27797502279281616 valid loss 3.069727245019749e-05
+15270 mean_square_loss: 1.3542735359806102e-05
+mean_multi real mean power error: 0.30846986174583435 valid loss 3.329215178382583e-05
+15280 mean_square_loss: 1.0863553143281024e-05
+mean_multi real mean power error: 0.30352652072906494 valid loss 3.21323168464005e-05
+15290 mean_square_loss: 2.9862259907531552e-05
+mean_multi real mean power error: 0.301282674074173 valid loss 3.282024044892751e-05
+15300 mean_square_loss: 7.467903742508497e-06
+mean_multi real mean power error: 0.2739493250846863 valid loss 2.709881664486602e-05
+15310 mean_square_loss: 8.490365871693939e-06
+mean_multi real mean power error: 0.27037981152534485 valid loss 2.663795748958364e-05
+15320 mean_square_loss: 9.668488019087818e-06
+mean_multi real mean power error: 0.3079664707183838 valid loss 3.4545424568932503e-05
+15330 mean_square_loss: 9.659098395786714e-06
+mean_multi real mean power error: 0.28979822993278503 valid loss 3.145262598991394e-05
+15340 mean_square_loss: 1.4745894986845087e-05
+mean_multi real mean power error: 0.3005386292934418 valid loss 3.067466241191141e-05
+15350 mean_square_loss: 1.1560813618416432e-05
+mean_multi real mean power error: 0.2630516290664673 valid loss 2.8564272724906914e-05
+15360 mean_square_loss: 5.3037350880913436e-05
+mean_multi real mean power error: 0.3313026428222656 valid loss 3.1313007639255375e-05
+15370 mean_square_loss: 9.298178156313952e-06
+mean_multi real mean power error: 0.24647468328475952 valid loss 2.5671022740425542e-05
+15380 mean_square_loss: 8.331154276675079e-06
+mean_multi real mean power error: 0.29271891713142395 valid loss 3.374786683707498e-05
+15390 mean_square_loss: 8.308864380524028e-06
+mean_multi real mean power error: 0.2470998615026474 valid loss 2.7175778086530045e-05
+15400 mean_square_loss: 1.2297166904318146e-05
+mean_multi real mean power error: 0.26669105887413025 valid loss 2.939857768069487e-05
+15410 mean_square_loss: 1.3239296094980091e-05
+mean_multi real mean power error: 0.2880685031414032 valid loss 2.890904033847619e-05
+15420 mean_square_loss: 4.924975655740127e-06
+mean_multi real mean power error: 0.27941906452178955 valid loss 2.9183980586822145e-05
+15430 mean_square_loss: 2.1075669792480767e-05
+mean_multi real mean power error: 0.30112186074256897 valid loss 3.1762869184603915e-05
+15440 mean_square_loss: 1.0419175850984175e-05
+mean_multi real mean power error: 0.2729417085647583 valid loss 2.9183020160417072e-05
+15450 mean_square_loss: 2.832587415468879e-05
+mean_multi real mean power error: 0.2965594232082367 valid loss 3.117301457677968e-05
+15460 mean_square_loss: 1.0790088708745316e-05
+mean_multi real mean power error: 0.2674084007740021 valid loss 2.8502170607680455e-05
+15470 mean_square_loss: 2.5592853489797562e-05
+mean_multi real mean power error: 0.2953655421733856 valid loss 3.089127494604327e-05
+15480 mean_square_loss: 1.3008841051487252e-05
+mean_multi real mean power error: 0.2621000409126282 valid loss 2.884840614569839e-05
+15490 mean_square_loss: 5.285545194055885e-05
+mean_multi real mean power error: 0.26763445138931274 valid loss 2.580132058938034e-05
+15500 mean_square_loss: 4.372899638838135e-06
+mean_multi real mean power error: 0.2606959939002991 valid loss 2.5885576178552583e-05
+15510 mean_square_loss: 3.4994773159269243e-05
+mean_multi real mean power error: 0.2690860629081726 valid loss 2.6153562430408783e-05
+15520 mean_square_loss: 1.170331597677432e-05
+mean_multi real mean power error: 0.26590752601623535 valid loss 2.8250871764612384e-05
+15530 mean_square_loss: 1.0283448318659794e-05
+mean_multi real mean power error: 0.23457062244415283 valid loss 2.6899799195234664e-05
+15540 mean_square_loss: 9.831426723394543e-06
+mean_multi real mean power error: 0.2814107835292816 valid loss 2.6451045414432883e-05
+15550 mean_square_loss: 2.2739670384908095e-05
+mean_multi real mean power error: 0.2723243832588196 valid loss 2.600176230771467e-05
+15560 mean_square_loss: 1.022371361614205e-05
+mean_multi real mean power error: 0.27793338894844055 valid loss 2.637352554302197e-05
+15570 mean_square_loss: 1.1234312296437565e-05
+mean_multi real mean power error: 0.2769145369529724 valid loss 2.517330358386971e-05
+15580 mean_square_loss: 1.1841732884931844e-05
+mean_multi real mean power error: 0.2990829348564148 valid loss 2.7705544198397547e-05
+15590 mean_square_loss: 2.920816086771083e-06
+mean_multi real mean power error: 0.26128846406936646 valid loss 2.6048779545817524e-05
+15600 mean_square_loss: 1.7294945791945793e-05
+mean_multi real mean power error: 0.2478528469800949 valid loss 2.6774016077979468e-05
+15610 mean_square_loss: 4.78612628285191e-06
+mean_multi real mean power error: 0.28488630056381226 valid loss 2.851083263522014e-05
+15620 mean_square_loss: 8.046929906413425e-06
+mean_multi real mean power error: 0.2634880542755127 valid loss 2.5199899027938955e-05
+15630 mean_square_loss: 5.85266843700083e-06
+mean_multi real mean power error: 0.27784645557403564 valid loss 2.4894767193472944e-05
+15640 mean_square_loss: 1.0983687388943508e-05
+mean_multi real mean power error: 0.2541663646697998 valid loss 2.541405410738662e-05
+15650 mean_square_loss: 6.51232267045998e-06
+mean_multi real mean power error: 0.2624467611312866 valid loss 2.7301948648528196e-05
+15660 mean_square_loss: 1.1844790606119204e-05
+mean_multi real mean power error: 0.26915401220321655 valid loss 2.679630597413052e-05
+15670 mean_square_loss: 1.037141919368878e-05
+mean_multi real mean power error: 0.2474377602338791 valid loss 2.9497314244508743e-05
+15680 mean_square_loss: 5.734866135753691e-06
+mean_multi real mean power error: 0.2976265251636505 valid loss 2.6549460017122328e-05
+15690 mean_square_loss: 8.993380106403492e-06
+mean_multi real mean power error: 0.2722965478897095 valid loss 2.414297341601923e-05
+15700 mean_square_loss: 2.20596539293183e-05
+mean_multi real mean power error: 0.2851621210575104 valid loss 2.4538625439163297e-05
+15710 mean_square_loss: 5.868780590390088e-06
+mean_multi real mean power error: 0.2634822130203247 valid loss 2.429512642265763e-05
+15720 mean_square_loss: 8.42005101731047e-06
+mean_multi real mean power error: 0.24560262262821198 valid loss 2.6232051823171787e-05
+15730 mean_square_loss: 6.622878572670743e-06
+mean_multi real mean power error: 0.2706151604652405 valid loss 2.7996700737276115e-05
+15740 mean_square_loss: 5.130280624143779e-05
+mean_multi real mean power error: 0.23398274183273315 valid loss 2.4699374989722855e-05
+15750 mean_square_loss: 3.672456386993872e-06
+mean_multi real mean power error: 0.24708111584186554 valid loss 2.5504306904622354e-05
+15760 mean_square_loss: 1.375327610730892e-05
+mean_multi real mean power error: 0.2534017562866211 valid loss 2.6570858608465642e-05
+15770 mean_square_loss: 1.86659672181122e-05
+mean_multi real mean power error: 0.29800090193748474 valid loss 3.1474697607336566e-05
+15780 mean_square_loss: 5.361258445191197e-06
+mean_multi real mean power error: 0.31763678789138794 valid loss 3.322166230645962e-05
+15790 mean_square_loss: 3.091493454121519e-06
+mean_multi real mean power error: 0.2647527754306793 valid loss 2.8657595976255834e-05
+15800 mean_square_loss: 1.099821656680433e-05
+mean_multi real mean power error: 0.2728479206562042 valid loss 2.9073155019432306e-05
+15810 mean_square_loss: 1.1060886208724696e-05
+mean_multi real mean power error: 0.26511135697364807 valid loss 3.947154982597567e-05
+15820 mean_square_loss: 2.250894976896234e-05
+mean_multi real mean power error: 0.2849961221218109 valid loss 3.587026731111109e-05
+15830 mean_square_loss: 1.4947050658520311e-05
+mean_multi real mean power error: 0.2556370794773102 valid loss 3.3163050829898566e-05
+15840 mean_square_loss: 1.9075412637903355e-05
+mean_multi real mean power error: 0.28025415539741516 valid loss 2.902484266087413e-05
+15850 mean_square_loss: 3.280163582530804e-05
+mean_multi real mean power error: 0.2688453197479248 valid loss 2.623797263368033e-05
+15860 mean_square_loss: 9.79076594376238e-06
+mean_multi real mean power error: 0.2834637463092804 valid loss 2.6210022042505443e-05
+15870 mean_square_loss: 1.1483216439955868e-05
+mean_multi real mean power error: 0.2759694755077362 valid loss 2.563362977525685e-05
+15880 mean_square_loss: 1.224663446919294e-05
+mean_multi real mean power error: 0.26818856596946716 valid loss 2.4235427190433256e-05
+15890 mean_square_loss: 1.9857188817695715e-05
+mean_multi real mean power error: 0.3283396363258362 valid loss 2.7536179914022796e-05
+15900 mean_square_loss: 5.481944754137658e-06
+mean_multi real mean power error: 0.24946103990077972 valid loss 2.3687569409958087e-05
+15910 mean_square_loss: 1.2770493412972428e-05
+mean_multi real mean power error: 0.23393487930297852 valid loss 2.959371340693906e-05
+15920 mean_square_loss: 1.4112304597801995e-05
+mean_multi real mean power error: 0.27292966842651367 valid loss 3.034989276784472e-05
+15930 mean_square_loss: 2.794999545585597e-06
+mean_multi real mean power error: 0.24009990692138672 valid loss 2.573935125838034e-05
+15940 mean_square_loss: 3.43817782777478e-06
+mean_multi real mean power error: 0.25664472579956055 valid loss 2.7604510250966996e-05
+15950 mean_square_loss: 8.64179583004443e-06
+mean_multi real mean power error: 0.30716294050216675 valid loss 3.234545511077158e-05
+15960 mean_square_loss: 9.220416359312367e-06
+mean_multi real mean power error: 0.27412495017051697 valid loss 3.05319917970337e-05
+15970 mean_square_loss: 6.396087883331347e-06
+mean_multi real mean power error: 0.29563578963279724 valid loss 2.9907276257290505e-05
+15980 mean_square_loss: 3.7198769859969616e-06
+mean_multi real mean power error: 0.30337637662887573 valid loss 2.887260779971257e-05
+15990 mean_square_loss: 6.664921329502249e-06
+mean_multi real mean power error: 0.2317686825990677 valid loss 2.708223109948449e-05
+16000 mean_square_loss: 9.502769898972474e-06
+mean_multi real mean power error: 0.29676127433776855 valid loss 3.5313536500325426e-05
+16010 mean_square_loss: 3.4788699849741533e-06
+mean_multi real mean power error: 0.242373526096344 valid loss 2.965134808619041e-05
+16020 mean_square_loss: 7.563863164250506e-06
+mean_multi real mean power error: 0.2660619914531708 valid loss 2.63222937064711e-05
+16030 mean_square_loss: 6.014249720465159e-06
+mean_multi real mean power error: 0.2747838497161865 valid loss 2.5958528567571193e-05
+16040 mean_square_loss: 1.926169716170989e-05
+mean_multi real mean power error: 0.26874840259552 valid loss 2.6683183023124002e-05
+16050 mean_square_loss: 1.2430985407263506e-05
+mean_multi real mean power error: 0.260015606880188 valid loss 2.6346184313297272e-05
+16060 mean_square_loss: 1.4737249330210034e-05
+mean_multi real mean power error: 0.28505319356918335 valid loss 2.9536045985878445e-05
+16070 mean_square_loss: 6.2239864746516105e-06
+mean_multi real mean power error: 0.2575623393058777 valid loss 2.6239393264404498e-05
+16080 mean_square_loss: 9.334718015452381e-06
+mean_multi real mean power error: 0.26179057359695435 valid loss 3.016677510458976e-05
+16090 mean_square_loss: 1.0989838301611599e-05
+mean_multi real mean power error: 0.2525724172592163 valid loss 2.5562871087458916e-05
+16100 mean_square_loss: 9.902333658828866e-06
+mean_multi real mean power error: 0.2972838580608368 valid loss 3.195526005583815e-05
+16110 mean_square_loss: 2.940267586382106e-05
+mean_multi real mean power error: 0.2716131806373596 valid loss 2.565241084084846e-05
+16120 mean_square_loss: 1.495947981311474e-05
+mean_multi real mean power error: 0.29554492235183716 valid loss 2.8426813514670357e-05
+16130 mean_square_loss: 5.808150945085799e-06
+mean_multi real mean power error: 0.28908371925354004 valid loss 2.8006967113469727e-05
+16140 mean_square_loss: 5.160543878446333e-06
+mean_multi real mean power error: 0.2637968361377716 valid loss 2.4832048438838683e-05
+16150 mean_square_loss: 6.697462140436983e-06
+mean_multi real mean power error: 0.2588019073009491 valid loss 2.5349445422762074e-05
+16160 mean_square_loss: 1.2068505384377204e-05
+mean_multi real mean power error: 0.2618293762207031 valid loss 2.4644894438097253e-05
+16170 mean_square_loss: 3.1223746645991923e-06
+mean_multi real mean power error: 0.26811355352401733 valid loss 2.4763761757640168e-05
+16180 mean_square_loss: 8.811112820694689e-06
+mean_multi real mean power error: 0.27105578780174255 valid loss 2.6753868951345794e-05
+16190 mean_square_loss: 4.160666321695317e-06
+mean_multi real mean power error: 0.27143624424934387 valid loss 2.833296821336262e-05
+16200 mean_square_loss: 7.012245987425558e-06
+mean_multi real mean power error: 0.26175615191459656 valid loss 2.7564978154259734e-05
+16210 mean_square_loss: 6.7711971496464685e-06
+mean_multi real mean power error: 0.27121701836586 valid loss 2.8108081096434034e-05
+16220 mean_square_loss: 9.237045560439583e-06
+mean_multi real mean power error: 0.27639296650886536 valid loss 3.0548955692211166e-05
+16230 mean_square_loss: 4.151690154685639e-05
+mean_multi real mean power error: 0.28037557005882263 valid loss 3.080527676502243e-05
+16240 mean_square_loss: 8.468710802844726e-06
+mean_multi real mean power error: 0.261638879776001 valid loss 2.6251240342389792e-05
+16250 mean_square_loss: 8.127110049827024e-06
+mean_multi real mean power error: 0.2521626055240631 valid loss 2.5983066734625027e-05
+16260 mean_square_loss: 7.696911779930815e-06
+mean_multi real mean power error: 0.24550558626651764 valid loss 2.7018219043384306e-05
+16270 mean_square_loss: 4.389086825540289e-06
+mean_multi real mean power error: 0.25538837909698486 valid loss 2.5787649065023288e-05
+16280 mean_square_loss: 1.208308276545722e-05
+mean_multi real mean power error: 0.24698162078857422 valid loss 2.51793517236365e-05
+16290 mean_square_loss: 8.221233656513505e-06
+mean_multi real mean power error: 0.2925962209701538 valid loss 2.638253317854833e-05
+16300 mean_square_loss: 8.711925147508737e-06
+mean_multi real mean power error: 0.2507564127445221 valid loss 2.3885404516477138e-05
+16310 mean_square_loss: 6.778051101719029e-06
+mean_multi real mean power error: 0.25546795129776 valid loss 2.4927086997195147e-05
+16320 mean_square_loss: 2.2063004507799633e-05
+mean_multi real mean power error: 0.282275915145874 valid loss 2.9117958547431044e-05
+16330 mean_square_loss: 7.363227723544696e-06
+mean_multi real mean power error: 0.2608293890953064 valid loss 2.95057052426273e-05
+16340 mean_square_loss: 1.1759725566662382e-05
+mean_multi real mean power error: 0.27803853154182434 valid loss 2.8462911359383725e-05
+16350 mean_square_loss: 3.7493473428185098e-06
+mean_multi real mean power error: 0.28401607275009155 valid loss 2.783552736218553e-05
+16360 mean_square_loss: 5.73540410186979e-06
+mean_multi real mean power error: 0.26203444600105286 valid loss 2.4560631572967395e-05
+16370 mean_square_loss: 1.5103531040949747e-05
+mean_multi real mean power error: 0.2533537447452545 valid loss 2.5282670321757905e-05
+16380 mean_square_loss: 3.938770532840863e-06
+mean_multi real mean power error: 0.25063881278038025 valid loss 2.4513570679118857e-05
+16390 mean_square_loss: 7.593338978040265e-06
+mean_multi real mean power error: 0.27348577976226807 valid loss 2.8383276003296487e-05
+16400 mean_square_loss: 6.250190381251741e-06
+mean_multi real mean power error: 0.29018205404281616 valid loss 3.2416653994005173e-05
+16410 mean_square_loss: 6.121867954789195e-06
+mean_multi real mean power error: 0.25719597935676575 valid loss 2.668868728505913e-05
+16420 mean_square_loss: 9.867455446510576e-06
+mean_multi real mean power error: 0.26098957657814026 valid loss 3.0463235816569068e-05
+16430 mean_square_loss: 8.083976354100741e-06
+mean_multi real mean power error: 0.2682639956474304 valid loss 2.8953541914233938e-05
+16440 mean_square_loss: 2.6783154680742882e-05
+mean_multi real mean power error: 0.26511770486831665 valid loss 2.6889647415373474e-05
+16450 mean_square_loss: 1.8968741642311215e-05
+mean_multi real mean power error: 0.23920686542987823 valid loss 2.4434390070382506e-05
+16460 mean_square_loss: 1.2317907930992078e-05
+mean_multi real mean power error: 0.2731683850288391 valid loss 2.612790012790356e-05
+16470 mean_square_loss: 1.345542841590941e-05
+mean_multi real mean power error: 0.27220597863197327 valid loss 2.7144469640916213e-05
+16480 mean_square_loss: 2.6391073788545327e-06
+mean_multi real mean power error: 0.2692500352859497 valid loss 2.783389027172234e-05
+16490 mean_square_loss: 1.923906893352978e-05
+mean_multi real mean power error: 0.2730887830257416 valid loss 2.6567664463073015e-05
+16500 mean_square_loss: 2.9100943720550276e-05
+mean_multi real mean power error: 0.3032335638999939 valid loss 3.4544511436251923e-05
+16510 mean_square_loss: 4.6499433665303513e-05
+mean_multi real mean power error: 0.30958986282348633 valid loss 3.970784382545389e-05
+16520 mean_square_loss: 2.288692121510394e-05
+mean_multi real mean power error: 0.2983800172805786 valid loss 3.467609712970443e-05
+16530 mean_square_loss: 6.74396824251744e-06
+mean_multi real mean power error: 0.24900327622890472 valid loss 2.6689105652621947e-05
+16540 mean_square_loss: 1.5426850950461812e-05
+mean_multi real mean power error: 0.27115321159362793 valid loss 2.619530278025195e-05
+16550 mean_square_loss: 1.7202881281264126e-05
+mean_multi real mean power error: 0.27696436643600464 valid loss 2.8757753170793876e-05
+16560 mean_square_loss: 1.56643072841689e-05
+mean_multi real mean power error: 0.23079437017440796 valid loss 2.590468284324743e-05
+16570 mean_square_loss: 1.2422596228134353e-05
+mean_multi real mean power error: 0.24428345263004303 valid loss 2.8692084015347064e-05
+16580 mean_square_loss: 1.621147384867072e-05
+mean_multi real mean power error: 0.2808566093444824 valid loss 2.5702845960040577e-05
+16590 mean_square_loss: 1.6748865164117888e-05
+mean_multi real mean power error: 0.25909265875816345 valid loss 2.2483247448690236e-05
+16600 mean_square_loss: 1.640765185584314e-05
+mean_multi real mean power error: 0.25479957461357117 valid loss 2.1781565010314807e-05
+16610 mean_square_loss: 3.625947283580899e-05
+mean_multi real mean power error: 0.24647456407546997 valid loss 2.4031000066315755e-05
+16620 mean_square_loss: 3.392014332348481e-05
+mean_multi real mean power error: 0.3647071421146393 valid loss 3.6571618693415076e-05
+16630 mean_square_loss: 1.7448843209422193e-05
+mean_multi real mean power error: 0.3831903040409088 valid loss 3.6528024793369696e-05
+16640 mean_square_loss: 1.1567314686544705e-05
+mean_multi real mean power error: 0.3215896785259247 valid loss 2.8695212677121162e-05
+16650 mean_square_loss: 1.3271945135784335e-05
+mean_multi real mean power error: 0.2883860766887665 valid loss 3.405227107577957e-05
+16660 mean_square_loss: 1.69509894476505e-05
+mean_multi real mean power error: 0.3071921169757843 valid loss 3.081265458604321e-05
+16670 mean_square_loss: 0.00011756900494219735
+mean_multi real mean power error: 0.5629268288612366 valid loss 0.0001107383577618748
+16680 mean_square_loss: 5.077086098026484e-05
+mean_multi real mean power error: 1.0074563026428223 valid loss 7.669928891118616e-05
+16690 mean_square_loss: 4.2234778447891586e-06
+mean_multi real mean power error: 0.8606444597244263 valid loss 7.325193291762844e-05
+16700 mean_square_loss: 3.8168054743437096e-05
+mean_multi real mean power error: 0.9871492981910706 valid loss 8.096514648059383e-05
+16710 mean_square_loss: 3.222554369131103e-05
+mean_multi real mean power error: 0.676127552986145 valid loss 5.914329449296929e-05
+16720 mean_square_loss: 8.508479368174449e-06
+mean_multi real mean power error: 0.585735559463501 valid loss 5.8754394558491185e-05
+16730 mean_square_loss: 4.854440703638829e-05
+mean_multi real mean power error: 0.7739472389221191 valid loss 8.2350306911394e-05
+16740 mean_square_loss: 0.0001534644834464416
+mean_multi real mean power error: 1.0480034351348877 valid loss 0.0002754522138275206
+16750 mean_square_loss: 2.9164901206968352e-05
+mean_multi real mean power error: 0.7530760765075684 valid loss 5.9681311540771276e-05
+16760 mean_square_loss: 2.0572198991430923e-05
+mean_multi real mean power error: 0.8729443550109863 valid loss 7.111052400432527e-05
+16770 mean_square_loss: 7.679420377826318e-05
+mean_multi real mean power error: 0.7417287826538086 valid loss 9.68255044426769e-05
+16780 mean_square_loss: 2.389530163782183e-05
+mean_multi real mean power error: 0.4435197412967682 valid loss 4.5532298827311024e-05
+16790 mean_square_loss: 2.044832581304945e-05
+mean_multi real mean power error: 0.5633533596992493 valid loss 8.327836258104071e-05
+16800 mean_square_loss: 1.1193657883268315e-05
+mean_multi real mean power error: 0.39110103249549866 valid loss 4.3390962673584e-05
+16810 mean_square_loss: 8.389121649088338e-05
+mean_multi real mean power error: 0.47990232706069946 valid loss 7.091148290783167e-05
+16820 mean_square_loss: 2.0968946046195924e-05
+mean_multi real mean power error: 0.7897495031356812 valid loss 5.3608888265443966e-05
+16830 mean_square_loss: 4.472073123906739e-05
+mean_multi real mean power error: 0.8647000193595886 valid loss 7.94551451690495e-05
+16840 mean_square_loss: 1.3358515388972592e-05
+mean_multi real mean power error: 0.3911207318305969 valid loss 6.378794932970777e-05
+16850 mean_square_loss: 3.392208236618899e-05
+mean_multi real mean power error: 0.3835046887397766 valid loss 3.821725840680301e-05
+16860 mean_square_loss: 3.472582102403976e-05
+mean_multi real mean power error: 0.45706823468208313 valid loss 4.095582335139625e-05
+16870 mean_square_loss: 9.66024072113214e-06
+mean_multi real mean power error: 0.31772419810295105 valid loss 2.9938131774542853e-05
+16880 mean_square_loss: 1.4604492207581643e-05
+mean_multi real mean power error: 0.2766667902469635 valid loss 2.7481944925966673e-05
+16890 mean_square_loss: 6.652686806774e-06
+mean_multi real mean power error: 0.26267340779304504 valid loss 2.755743480520323e-05
+16900 mean_square_loss: 8.081291525741108e-06
+mean_multi real mean power error: 0.24716390669345856 valid loss 2.6862229788093828e-05
+16910 mean_square_loss: 9.823922482610215e-06
+mean_multi real mean power error: 0.2607406675815582 valid loss 2.6434758183313534e-05
+16920 mean_square_loss: 6.885637503728503e-06
+mean_multi real mean power error: 0.26841577887535095 valid loss 2.5950368581106886e-05
+16930 mean_square_loss: 3.784829459618777e-06
+mean_multi real mean power error: 0.24514056742191315 valid loss 2.459108509356156e-05
+16940 mean_square_loss: 6.018522526574088e-06
+mean_multi real mean power error: 0.2359384298324585 valid loss 2.417113137198612e-05
+16950 mean_square_loss: 4.9890186346601695e-06
+mean_multi real mean power error: 0.23788906633853912 valid loss 2.4426130039501004e-05
+16960 mean_square_loss: 5.3768580983160064e-05
+mean_multi real mean power error: 0.2824028432369232 valid loss 2.595863043097779e-05
+16970 mean_square_loss: 1.6324227544828318e-05
+mean_multi real mean power error: 0.24821096658706665 valid loss 2.4696815671632066e-05
+16980 mean_square_loss: 3.305788050056435e-05
+mean_multi real mean power error: 0.2502653896808624 valid loss 2.4316828785231337e-05
+16990 mean_square_loss: 6.699757250316907e-06
+mean_multi real mean power error: 0.27296966314315796 valid loss 2.445758946123533e-05
+17000 mean_square_loss: 7.432349320879439e-06
+mean_multi real mean power error: 0.2230449765920639 valid loss 2.482098170730751e-05
+17010 mean_square_loss: 7.2680968514760025e-06
+mean_multi real mean power error: 0.23379099369049072 valid loss 2.5187946448568255e-05
+17020 mean_square_loss: 1.565735692565795e-05
+mean_multi real mean power error: 0.2549135982990265 valid loss 2.507741555746179e-05
+17030 mean_square_loss: 1.155442532763118e-05
+mean_multi real mean power error: 0.2476780116558075 valid loss 2.9170407287892886e-05
+17040 mean_square_loss: 1.0515874237171374e-05
+mean_multi real mean power error: 0.2545761466026306 valid loss 2.6038411306217313e-05
+17050 mean_square_loss: 1.9999570213258266e-05
+mean_multi real mean power error: 0.24867838621139526 valid loss 2.5683249987196177e-05
+17060 mean_square_loss: 2.024790592258796e-05
+mean_multi real mean power error: 0.25394630432128906 valid loss 2.3499002054450102e-05
+17070 mean_square_loss: 1.2257864909770433e-05
+mean_multi real mean power error: 0.2856248617172241 valid loss 2.3183849407359958e-05
+17080 mean_square_loss: 1.8954009647131898e-05
+mean_multi real mean power error: 0.24168851971626282 valid loss 2.2091291612014174e-05
+17090 mean_square_loss: 1.3013445823162328e-05
+mean_multi real mean power error: 0.29710403084754944 valid loss 2.4733632017159835e-05
+17100 mean_square_loss: 9.618592230253853e-06
+mean_multi real mean power error: 0.26475486159324646 valid loss 2.4431861675111577e-05
+17110 mean_square_loss: 2.485904587956611e-05
+mean_multi real mean power error: 0.3501702845096588 valid loss 2.8775908504030667e-05
+17120 mean_square_loss: 1.0024690709542483e-05
+mean_multi real mean power error: 0.2472217082977295 valid loss 2.294828118465375e-05
+17130 mean_square_loss: 5.218888691160828e-05
+mean_multi real mean power error: 0.30133602023124695 valid loss 2.3919357772683725e-05
+17140 mean_square_loss: 2.0566878447425552e-05
+mean_multi real mean power error: 0.28788262605667114 valid loss 2.388606662862003e-05
+17150 mean_square_loss: 2.120654062309768e-05
+mean_multi real mean power error: 0.22233140468597412 valid loss 2.210736602137331e-05
+17160 mean_square_loss: 6.621575448662043e-05
+mean_multi real mean power error: 0.2913840115070343 valid loss 4.310051372158341e-05
+17170 mean_square_loss: 2.710233638936188e-05
+mean_multi real mean power error: 0.3237040340900421 valid loss 3.473690230748616e-05
+17180 mean_square_loss: 3.1153991585597396e-05
+mean_multi real mean power error: 0.25240403413772583 valid loss 2.6597479518386535e-05
+17190 mean_square_loss: 5.5439770221710205e-05
+mean_multi real mean power error: 0.23318886756896973 valid loss 2.2769048882764764e-05
+17200 mean_square_loss: 1.054366111929994e-05
+mean_multi real mean power error: 0.24545061588287354 valid loss 2.1425732484203763e-05
+17210 mean_square_loss: 1.3605895219370723e-05
+mean_multi real mean power error: 0.2367667257785797 valid loss 2.1115703930263408e-05
+17220 mean_square_loss: 1.4187069609761238e-05
+mean_multi real mean power error: 0.2508942186832428 valid loss 2.1411868146969937e-05
+17230 mean_square_loss: 1.5018870726635214e-05
+mean_multi real mean power error: 0.2323269248008728 valid loss 2.1041751097072847e-05
+17240 mean_square_loss: 1.3011477676627692e-05
+mean_multi real mean power error: 0.23375071585178375 valid loss 2.0718473024317063e-05
+17250 mean_square_loss: 3.972922513639787e-06
+mean_multi real mean power error: 0.25096040964126587 valid loss 2.4000226403586566e-05
+17260 mean_square_loss: 9.004946150525939e-06
+mean_multi real mean power error: 0.2418653964996338 valid loss 2.225114258180838e-05
+17270 mean_square_loss: 8.399460057262331e-06
+mean_multi real mean power error: 0.2922302782535553 valid loss 2.3811593564460054e-05
+17280 mean_square_loss: 1.7275848222197965e-05
+mean_multi real mean power error: 0.22596469521522522 valid loss 2.1548390577663668e-05
+17290 mean_square_loss: 7.763164830976166e-06
+mean_multi real mean power error: 0.2668367326259613 valid loss 2.2690448531648144e-05
+17300 mean_square_loss: 3.817473043454811e-06
+mean_multi real mean power error: 0.24398955702781677 valid loss 2.1177636881475337e-05
+17310 mean_square_loss: 6.775394922442501e-06
+mean_multi real mean power error: 0.2500621974468231 valid loss 2.2683061615680344e-05
+17320 mean_square_loss: 3.049350380024407e-05
+mean_multi real mean power error: 0.23013463616371155 valid loss 2.1201520212343894e-05
+17330 mean_square_loss: 1.1705838005582336e-05
+mean_multi real mean power error: 0.2518391013145447 valid loss 2.3720662284176797e-05
+17340 mean_square_loss: 2.8744016162818298e-05
+mean_multi real mean power error: 0.2467317134141922 valid loss 2.3752321794745512e-05
+17350 mean_square_loss: 1.081663776858477e-05
+mean_multi real mean power error: 0.2262984663248062 valid loss 2.1508842110051773e-05
+17360 mean_square_loss: 9.975089596991893e-06
+mean_multi real mean power error: 0.23888951539993286 valid loss 2.0748102542711422e-05
+17370 mean_square_loss: 1.7427404600312002e-05
+mean_multi real mean power error: 0.21033231914043427 valid loss 1.9950630303355865e-05
+17380 mean_square_loss: 1.5851281204959378e-05
+mean_multi real mean power error: 0.23794542253017426 valid loss 2.83640965790255e-05
+17390 mean_square_loss: 3.347369056427851e-05
+mean_multi real mean power error: 0.2528309226036072 valid loss 2.9554426873801276e-05
+17400 mean_square_loss: 1.0935815225820988e-05
+mean_multi real mean power error: 0.22421497106552124 valid loss 2.6876776246353984e-05
+17410 mean_square_loss: 7.636711416125763e-06
+mean_multi real mean power error: 0.20529206097126007 valid loss 2.0775940356543288e-05
+17420 mean_square_loss: 3.1380886866827495e-06
+mean_multi real mean power error: 0.2950214743614197 valid loss 2.3069203962222673e-05
+17430 mean_square_loss: 2.3686043277848512e-05
+mean_multi real mean power error: 0.33606892824172974 valid loss 2.450913416396361e-05
+17440 mean_square_loss: 1.0030514204117935e-05
+mean_multi real mean power error: 0.25491049885749817 valid loss 2.187641803175211e-05
+17450 mean_square_loss: 6.043551820766879e-06
+mean_multi real mean power error: 0.23031757771968842 valid loss 4.0126080421032384e-05
+17460 mean_square_loss: 2.5707719032652676e-05
+mean_multi real mean power error: 0.25503453612327576 valid loss 4.086485569132492e-05
+17470 mean_square_loss: 1.7704722267808393e-05
+mean_multi real mean power error: 0.2543962001800537 valid loss 2.8367023332975805e-05
+17480 mean_square_loss: 7.049199666653294e-06
+mean_multi real mean power error: 0.2956198453903198 valid loss 2.6091296604136005e-05
+17490 mean_square_loss: 1.973812686628662e-05
+mean_multi real mean power error: 0.2540207803249359 valid loss 2.4011731511563994e-05
+17500 mean_square_loss: 1.0817944712471217e-05
+mean_multi real mean power error: 0.2495659589767456 valid loss 2.3846723706810735e-05
+17510 mean_square_loss: 2.3671973394812085e-05
+mean_multi real mean power error: 0.3496619164943695 valid loss 2.6630843422026373e-05
+17520 mean_square_loss: 2.7638001483865082e-05
+mean_multi real mean power error: 0.23815424740314484 valid loss 2.527834294596687e-05
+17530 mean_square_loss: 4.320907828514464e-05
+mean_multi real mean power error: 0.2566392123699188 valid loss 2.5681421902845614e-05
+17540 mean_square_loss: 1.5177656678133644e-05
+mean_multi real mean power error: 0.2802196145057678 valid loss 2.420062264718581e-05
+17550 mean_square_loss: 1.618658825464081e-05
+mean_multi real mean power error: 0.29436004161834717 valid loss 2.3808752303011715e-05
+17560 mean_square_loss: 2.4049852072494105e-05
+mean_multi real mean power error: 0.27144095301628113 valid loss 2.4284026949317195e-05
+17570 mean_square_loss: 1.9531311409082264e-05
+mean_multi real mean power error: 0.3500353693962097 valid loss 2.8233775083208457e-05
+17580 mean_square_loss: 1.9904311557183973e-05
+mean_multi real mean power error: 0.25164222717285156 valid loss 2.5189950974890962e-05
+17590 mean_square_loss: 3.202980587957427e-05
+mean_multi real mean power error: 0.21762146055698395 valid loss 2.502782444935292e-05
+17600 mean_square_loss: 6.396092885552207e-06
+mean_multi real mean power error: 0.2401968389749527 valid loss 2.3057673388393596e-05
+17610 mean_square_loss: 6.9447596615646034e-06
+mean_multi real mean power error: 0.2899424135684967 valid loss 2.3402106307912618e-05
+17620 mean_square_loss: 9.08478341443697e-06
+mean_multi real mean power error: 0.2378043532371521 valid loss 2.1896108592045493e-05
+17630 mean_square_loss: 5.5805710871936753e-05
+mean_multi real mean power error: 0.24889658391475677 valid loss 2.1057207050034776e-05
+17640 mean_square_loss: 4.618426828528754e-06
+mean_multi real mean power error: 0.23156997561454773 valid loss 2.0758352548000403e-05
+17650 mean_square_loss: 7.278034445334924e-06
+mean_multi real mean power error: 0.23042823374271393 valid loss 2.103605766023975e-05
+17660 mean_square_loss: 1.8836513845599256e-05
+mean_multi real mean power error: 0.2088419646024704 valid loss 2.0260351448087022e-05
+17670 mean_square_loss: 2.4097469122352777e-06
+mean_multi real mean power error: 0.24155105650424957 valid loss 2.2788382921135053e-05
+17680 mean_square_loss: 2.2382193492376246e-05
+mean_multi real mean power error: 0.3322058320045471 valid loss 2.7086754926131107e-05
+17690 mean_square_loss: 7.640882358828094e-06
+mean_multi real mean power error: 0.30230098962783813 valid loss 2.4463552108500153e-05
+17700 mean_square_loss: 7.303694019356044e-06
+mean_multi real mean power error: 0.27067479491233826 valid loss 2.432672590657603e-05
+17710 mean_square_loss: 3.854668648273218e-06
+mean_multi real mean power error: 0.29954853653907776 valid loss 2.4316934286616743e-05
+17720 mean_square_loss: 5.158026397111826e-06
+mean_multi real mean power error: 0.2547042965888977 valid loss 2.248284909001086e-05
+17730 mean_square_loss: 1.5965501006576233e-05
+mean_multi real mean power error: 0.413840651512146 valid loss 2.6540385078988038e-05
+17740 mean_square_loss: 2.0814792151213624e-05
+mean_multi real mean power error: 0.28169313073158264 valid loss 2.2660537069896236e-05
+17750 mean_square_loss: 8.454187991446815e-06
+mean_multi real mean power error: 0.22543036937713623 valid loss 2.028639028139878e-05
+17760 mean_square_loss: 2.972349466290325e-05
+mean_multi real mean power error: 0.22316604852676392 valid loss 2.1059506252640858e-05
+17770 mean_square_loss: 2.3430628061760217e-05
+mean_multi real mean power error: 0.22847995162010193 valid loss 2.2898553652339615e-05
+17780 mean_square_loss: 1.7500984540674835e-05
+mean_multi real mean power error: 0.19873368740081787 valid loss 2.2722779249306768e-05
+17790 mean_square_loss: 2.4360062525374815e-05
+mean_multi real mean power error: 0.24993154406547546 valid loss 2.2266318410402164e-05
+17800 mean_square_loss: 9.589633918949403e-06
+mean_multi real mean power error: 0.2020910382270813 valid loss 2.191270687035285e-05
+17810 mean_square_loss: 1.464146680518752e-05
+mean_multi real mean power error: 0.25151556730270386 valid loss 2.4020515411393717e-05
+17820 mean_square_loss: 4.288755462766858e-06
+mean_multi real mean power error: 0.24126525223255157 valid loss 2.192317697335966e-05
+17830 mean_square_loss: 1.2233810593897942e-05
+mean_multi real mean power error: 0.2452109456062317 valid loss 2.3112979761208408e-05
+17840 mean_square_loss: 7.6190590334590524e-06
+mean_multi real mean power error: 0.24908447265625 valid loss 2.333929660380818e-05
+17850 mean_square_loss: 1.1018742952728644e-05
+mean_multi real mean power error: 0.2719007730484009 valid loss 2.6376248570159078e-05
+17860 mean_square_loss: 9.900870281853713e-06
+mean_multi real mean power error: 0.24111704528331757 valid loss 2.4649369152029976e-05
+17870 mean_square_loss: 2.1795152861159295e-05
+mean_multi real mean power error: 0.27608340978622437 valid loss 2.4232846044469625e-05
+17880 mean_square_loss: 4.572776742861606e-05
+mean_multi real mean power error: 0.2116401344537735 valid loss 2.2833461116533726e-05
+17890 mean_square_loss: 7.528805144829676e-05
+mean_multi real mean power error: 0.2248861938714981 valid loss 2.304524605278857e-05
+17900 mean_square_loss: 2.0734463760163635e-05
+mean_multi real mean power error: 0.20980222523212433 valid loss 2.3809130652807653e-05
+17910 mean_square_loss: 8.056496881181374e-05
+mean_multi real mean power error: 0.2353479564189911 valid loss 2.203730764449574e-05
+17920 mean_square_loss: 2.718051109695807e-05
+mean_multi real mean power error: 0.318053275346756 valid loss 2.5063987777684815e-05
+17930 mean_square_loss: 1.249557317350991e-05
+mean_multi real mean power error: 0.2398739606142044 valid loss 2.2172933313413523e-05
+17940 mean_square_loss: 2.4745073460508138e-05
+mean_multi real mean power error: 0.22005724906921387 valid loss 2.200361996074207e-05
+17950 mean_square_loss: 1.0922306501015555e-05
+mean_multi real mean power error: 0.2539317011833191 valid loss 2.3728514861431904e-05
+17960 mean_square_loss: 1.0277589353790972e-05
+mean_multi real mean power error: 0.24882128834724426 valid loss 2.2880039978190325e-05
+17970 mean_square_loss: 5.906141723244218e-06
+mean_multi real mean power error: 0.2619076371192932 valid loss 2.154962749045808e-05
+17980 mean_square_loss: 1.2940865417476743e-05
+mean_multi real mean power error: 0.21818886697292328 valid loss 2.055148797808215e-05
+17990 mean_square_loss: 9.669707651482895e-06
+mean_multi real mean power error: 0.2174140065908432 valid loss 1.952998172782827e-05
+18000 mean_square_loss: 1.6589607184869237e-05
+mean_multi real mean power error: 0.2536773383617401 valid loss 2.2897220333106816e-05
+18010 mean_square_loss: 1.1913116395589896e-05
+mean_multi real mean power error: 0.24058803915977478 valid loss 2.2803220417699777e-05
+18020 mean_square_loss: 3.6174045817460865e-05
+mean_multi real mean power error: 0.2165815830230713 valid loss 2.1664083760697395e-05
+18030 mean_square_loss: 3.295370333944447e-05
+mean_multi real mean power error: 0.27172940969467163 valid loss 2.3657172278035432e-05
+18040 mean_square_loss: 5.74618206883315e-05
+mean_multi real mean power error: 0.27415668964385986 valid loss 2.8302514692768455e-05
+18050 mean_square_loss: 1.7073611161322333e-05
+mean_multi real mean power error: 0.37244975566864014 valid loss 2.698486605368089e-05
+18060 mean_square_loss: 1.4498613381874748e-05
+mean_multi real mean power error: 0.26516351103782654 valid loss 2.5584247850929387e-05
+18070 mean_square_loss: 1.1354668458807282e-05
+mean_multi real mean power error: 0.29972219467163086 valid loss 2.593127646832727e-05
+18080 mean_square_loss: 8.41444398247404e-06
+mean_multi real mean power error: 0.23297181725502014 valid loss 2.2002022888045758e-05
+18090 mean_square_loss: 8.457916010229383e-06
+mean_multi real mean power error: 0.2134864777326584 valid loss 2.098574441333767e-05
+18100 mean_square_loss: 2.0205345208523795e-05
+mean_multi real mean power error: 0.2116561084985733 valid loss 2.0304860299802385e-05
+18110 mean_square_loss: 1.4385241229319945e-05
+mean_multi real mean power error: 0.2184845358133316 valid loss 2.0435320038814098e-05
+18120 mean_square_loss: 2.4372240659431554e-05
+mean_multi real mean power error: 0.21227486431598663 valid loss 2.228735866083298e-05
+18130 mean_square_loss: 1.6183765183086507e-05
+mean_multi real mean power error: 0.21583276987075806 valid loss 2.138155286957044e-05
+18140 mean_square_loss: 3.384779847692698e-05
+mean_multi real mean power error: 0.20452973246574402 valid loss 2.0251416572136804e-05
+18150 mean_square_loss: 6.831161954323761e-06
+mean_multi real mean power error: 0.24482224881649017 valid loss 2.114632115990389e-05
+18160 mean_square_loss: 1.4704617569805123e-05
+mean_multi real mean power error: 0.2284700870513916 valid loss 2.1652433133567683e-05
+18170 mean_square_loss: 5.003125261282548e-05
+mean_multi real mean power error: 0.22365088760852814 valid loss 2.278365172969643e-05
+18180 mean_square_loss: 4.685181465902133e-06
+mean_multi real mean power error: 0.22753457725048065 valid loss 2.217654400737956e-05
+18190 mean_square_loss: 7.580497822345933e-06
+mean_multi real mean power error: 0.18991421163082123 valid loss 2.015362770180218e-05
+18200 mean_square_loss: 7.0464784585055895e-06
+mean_multi real mean power error: 0.24059000611305237 valid loss 2.237987791886553e-05
+18210 mean_square_loss: 1.0039299922937062e-05
+mean_multi real mean power error: 0.21837753057479858 valid loss 2.071699964290019e-05
+18220 mean_square_loss: 3.137210296699777e-05
+mean_multi real mean power error: 0.23846201598644257 valid loss 2.4568151275161654e-05
+18230 mean_square_loss: 1.5601463019265793e-05
+mean_multi real mean power error: 0.24555689096450806 valid loss 2.7786070859292522e-05
+18240 mean_square_loss: 1.1431378879933618e-05
+mean_multi real mean power error: 0.25673359632492065 valid loss 2.714888432819862e-05
+18250 mean_square_loss: 2.8147965167590883e-06
+mean_multi real mean power error: 0.21869777143001556 valid loss 2.4713410311960615e-05
+18260 mean_square_loss: 2.748213773884345e-06
+mean_multi real mean power error: 0.2553882300853729 valid loss 3.050443592655938e-05
+18270 mean_square_loss: 1.0559547263255809e-05
+mean_multi real mean power error: 0.2700032591819763 valid loss 2.8232054319232702e-05
+18280 mean_square_loss: 6.580433819181053e-06
+mean_multi real mean power error: 0.5493631362915039 valid loss 3.697294960147701e-05
+18290 mean_square_loss: 4.278631240595132e-05
+mean_multi real mean power error: 0.5296794176101685 valid loss 4.9830829084385186e-05
+18300 mean_square_loss: 2.1632145944749936e-05
+mean_multi real mean power error: 0.3400443494319916 valid loss 2.583122295618523e-05
+18310 mean_square_loss: 1.3112947272020392e-05
+mean_multi real mean power error: 0.3967124819755554 valid loss 3.6919118429068476e-05
+18320 mean_square_loss: 1.991882163565606e-05
+mean_multi real mean power error: 0.36383330821990967 valid loss 2.7573796614888124e-05
+18330 mean_square_loss: 3.8149893953232095e-05
+mean_multi real mean power error: 0.3342578709125519 valid loss 3.4716282243607566e-05
+18340 mean_square_loss: 0.00010331468365620822
+mean_multi real mean power error: 0.7502288818359375 valid loss 6.959120219107717e-05
+18350 mean_square_loss: 1.7541715351399034e-05
+mean_multi real mean power error: 0.4297763705253601 valid loss 3.543109050951898e-05
+18360 mean_square_loss: 1.971868368855212e-05
+mean_multi real mean power error: 0.419321209192276 valid loss 4.287764386390336e-05
+18370 mean_square_loss: 1.684016388026066e-05
+mean_multi real mean power error: 0.33544430136680603 valid loss 3.36367120326031e-05
+18380 mean_square_loss: 1.0495406058907975e-05
+mean_multi real mean power error: 0.2869369089603424 valid loss 2.9215318136266433e-05
+18390 mean_square_loss: 4.0048496884992346e-05
+mean_multi real mean power error: 0.32163089513778687 valid loss 2.9335595172597095e-05
+18400 mean_square_loss: 1.18817752081668e-05
+mean_multi real mean power error: 0.3250840902328491 valid loss 3.1053881684783846e-05
+18410 mean_square_loss: 1.265532318939222e-05
+mean_multi real mean power error: 0.3392287790775299 valid loss 3.468041541054845e-05
+18420 mean_square_loss: 3.2938253298198106e-06
+mean_multi real mean power error: 0.3259374797344208 valid loss 3.276270581409335e-05
+18430 mean_square_loss: 2.3473210603697225e-05
+mean_multi real mean power error: 0.2948586046695709 valid loss 2.9343224014155567e-05
+18440 mean_square_loss: 6.7508099164115265e-06
+mean_multi real mean power error: 0.32931026816368103 valid loss 3.059064692934044e-05
+18450 mean_square_loss: 4.933411219099071e-06
+mean_multi real mean power error: 0.36056023836135864 valid loss 3.6153680412098765e-05
+18460 mean_square_loss: 1.204799900733633e-05
+mean_multi real mean power error: 0.4055359959602356 valid loss 3.498865044093691e-05
+18470 mean_square_loss: 3.136140003334731e-05
+mean_multi real mean power error: 0.3382338881492615 valid loss 3.568793545127846e-05
+18480 mean_square_loss: 1.5834042642381974e-05
+mean_multi real mean power error: 0.28375619649887085 valid loss 2.594285433588084e-05
+18490 mean_square_loss: 6.495817160612205e-06
+mean_multi real mean power error: 0.2546558678150177 valid loss 2.5487439415883273e-05
+18500 mean_square_loss: 8.688401976542082e-06
+mean_multi real mean power error: 0.22367243468761444 valid loss 2.2860956960357726e-05
+18510 mean_square_loss: 7.15342684998177e-06
+mean_multi real mean power error: 0.2726346552371979 valid loss 2.3207749109133147e-05
+18520 mean_square_loss: 4.637718575395411e-06
+mean_multi real mean power error: 0.251600056886673 valid loss 2.3626769689144567e-05
+18530 mean_square_loss: 4.515130513027543e-06
+mean_multi real mean power error: 0.2570018470287323 valid loss 2.5624132831580937e-05
+18540 mean_square_loss: 7.483331501134671e-06
+mean_multi real mean power error: 0.2159615308046341 valid loss 2.2794005417381413e-05
+18550 mean_square_loss: 1.014793997455854e-05
+mean_multi real mean power error: 0.2482038140296936 valid loss 2.744283301581163e-05
+18560 mean_square_loss: 9.37363802222535e-06
+mean_multi real mean power error: 0.24434107542037964 valid loss 2.4231147108366713e-05
+18570 mean_square_loss: 8.934851393860299e-06
+mean_multi real mean power error: 0.22372335195541382 valid loss 2.2548212655237876e-05
+18580 mean_square_loss: 6.315193786576856e-06
+mean_multi real mean power error: 0.2570176422595978 valid loss 2.411384593870025e-05
+18590 mean_square_loss: 2.475173278071452e-05
+mean_multi real mean power error: 0.23469316959381104 valid loss 2.496257184247952e-05
+18600 mean_square_loss: 1.5011482901172712e-05
+mean_multi real mean power error: 0.23563681542873383 valid loss 2.5932917196769267e-05
+18610 mean_square_loss: 2.9973312848596834e-05
+mean_multi real mean power error: 0.23673135042190552 valid loss 2.5769964850042015e-05
+18620 mean_square_loss: 8.7718744907761e-06
+mean_multi real mean power error: 0.2400020956993103 valid loss 2.66971874225419e-05
+18630 mean_square_loss: 1.5669228332626517e-06
+mean_multi real mean power error: 0.2351098656654358 valid loss 2.348483212699648e-05
+18640 mean_square_loss: 7.265707972692326e-05
+mean_multi real mean power error: 0.22384443879127502 valid loss 2.1931726223556325e-05
+18650 mean_square_loss: 5.400366717367433e-06
+mean_multi real mean power error: 0.2639208436012268 valid loss 2.6523295673541725e-05
+18660 mean_square_loss: 4.750618700199993e-06
+mean_multi real mean power error: 0.2762211859226227 valid loss 3.019367068191059e-05
+18670 mean_square_loss: 1.0838302841875702e-05
+mean_multi real mean power error: 0.2228647917509079 valid loss 2.4000883058761247e-05
+18680 mean_square_loss: 2.6763033019960858e-05
+mean_multi real mean power error: 0.22870151698589325 valid loss 2.403115104243625e-05
+18690 mean_square_loss: 1.065910419129068e-05
+mean_multi real mean power error: 0.26860639452934265 valid loss 2.9127197194611654e-05
+18700 mean_square_loss: 1.2471057743823621e-05
+mean_multi real mean power error: 0.24338951706886292 valid loss 2.6320953111280687e-05
+18710 mean_square_loss: 1.1515324331412558e-05
+mean_multi real mean power error: 0.22848454117774963 valid loss 2.9879929570597596e-05
+18720 mean_square_loss: 7.689832273172215e-06
+mean_multi real mean power error: 0.24189020693302155 valid loss 2.556200161052402e-05
+18730 mean_square_loss: 9.345072612632066e-06
+mean_multi real mean power error: 0.31151872873306274 valid loss 2.5747596737346612e-05
+18740 mean_square_loss: 2.0919971575494856e-05
+mean_multi real mean power error: 0.2507881820201874 valid loss 2.5368119167978875e-05
+18750 mean_square_loss: 5.106156095280312e-06
+mean_multi real mean power error: 0.2382247895002365 valid loss 2.1846559320692904e-05
+18760 mean_square_loss: 7.895176167949103e-06
+mean_multi real mean power error: 0.23534999787807465 valid loss 2.0952509657945484e-05
+18770 mean_square_loss: 3.236451084376313e-05
+mean_multi real mean power error: 0.2181045562028885 valid loss 2.122238220181316e-05
+18780 mean_square_loss: 1.4607224329665769e-05
+mean_multi real mean power error: 0.22018030285835266 valid loss 2.1116919015184976e-05
+18790 mean_square_loss: 1.6386498828069307e-05
+mean_multi real mean power error: 0.22759993374347687 valid loss 2.2135112885734998e-05
+18800 mean_square_loss: 2.9039760192972608e-05
+mean_multi real mean power error: 0.2408219426870346 valid loss 2.322016553080175e-05
+18810 mean_square_loss: 1.4293794265540782e-05
+mean_multi real mean power error: 0.21036559343338013 valid loss 2.0389361452544108e-05
+18820 mean_square_loss: 7.296308922377648e-06
+mean_multi real mean power error: 0.24513453245162964 valid loss 2.095200943585951e-05
+18830 mean_square_loss: 2.0172123186057433e-05
+mean_multi real mean power error: 0.24858662486076355 valid loss 2.2684340365231037e-05
+18840 mean_square_loss: 3.693093958645477e-06
+mean_multi real mean power error: 0.21459707617759705 valid loss 2.2444997739512473e-05
+18850 mean_square_loss: 4.161199740337906e-06
+mean_multi real mean power error: 0.250248521566391 valid loss 2.6778412575367838e-05
+18860 mean_square_loss: 1.3789491276838817e-05
+mean_multi real mean power error: 0.23935745656490326 valid loss 2.3090738977771252e-05
+18870 mean_square_loss: 9.934732588590123e-06
+mean_multi real mean power error: 0.25235673785209656 valid loss 2.5016304789460264e-05
+18880 mean_square_loss: 1.7571017451700754e-05
+mean_multi real mean power error: 0.2234765589237213 valid loss 2.2064738004701212e-05
+18890 mean_square_loss: 1.4199126781022642e-05
+mean_multi real mean power error: 0.21535803377628326 valid loss 2.099959419865627e-05
+18900 mean_square_loss: 6.96538518241141e-06
+mean_multi real mean power error: 0.21284395456314087 valid loss 2.0978975953767076e-05
+18910 mean_square_loss: 1.1425328011682723e-05
+mean_multi real mean power error: 0.21617011725902557 valid loss 1.9907101886929013e-05
+18920 mean_square_loss: 1.0366307833464816e-05
+mean_multi real mean power error: 0.22447556257247925 valid loss 2.018091436184477e-05
+18930 mean_square_loss: 1.5145789802772924e-05
+mean_multi real mean power error: 0.2598237097263336 valid loss 2.1768761143903248e-05
+18940 mean_square_loss: 7.5729417403636035e-06
+mean_multi real mean power error: 0.24159559607505798 valid loss 2.0383149603731e-05
+18950 mean_square_loss: 9.300140845880378e-06
+mean_multi real mean power error: 0.286593496799469 valid loss 2.3748028979753144e-05
+18960 mean_square_loss: 2.5944462322513573e-05
+mean_multi real mean power error: 0.25324776768684387 valid loss 2.395334558968898e-05
+18970 mean_square_loss: 8.184491889551282e-06
+mean_multi real mean power error: 0.25612616539001465 valid loss 2.4452419893350452e-05
+18980 mean_square_loss: 6.355852292472264e-06
+mean_multi real mean power error: 0.2548363208770752 valid loss 2.2908930986886844e-05
+18990 mean_square_loss: 5.728769247070886e-05
+mean_multi real mean power error: 0.28446173667907715 valid loss 2.7969439543085173e-05
+19000 mean_square_loss: 3.139731052215211e-05
+mean_multi real mean power error: 0.24349454045295715 valid loss 2.6846766559174284e-05
+19010 mean_square_loss: 1.3116717127559241e-05
+mean_multi real mean power error: 0.25257375836372375 valid loss 2.7032736397814006e-05
+19020 mean_square_loss: 9.435186075279489e-05
+mean_multi real mean power error: 0.25002145767211914 valid loss 2.471702464390546e-05
+19030 mean_square_loss: 7.967871169967111e-06
+mean_multi real mean power error: 0.2434188723564148 valid loss 2.528903314669151e-05
+19040 mean_square_loss: 1.4127475878922269e-05
+mean_multi real mean power error: 0.27306562662124634 valid loss 2.7136527933180332e-05
+19050 mean_square_loss: 1.3782301721221302e-05
+mean_multi real mean power error: 0.2273140549659729 valid loss 2.5697680030134507e-05
+19060 mean_square_loss: 1.4012704014021438e-05
+mean_multi real mean power error: 0.27142640948295593 valid loss 2.8121681680204347e-05
+19070 mean_square_loss: 9.947646503860597e-06
+mean_multi real mean power error: 0.2450883537530899 valid loss 2.4652656065882184e-05
+19080 mean_square_loss: 7.833467861928511e-06
+mean_multi real mean power error: 0.22927841544151306 valid loss 2.2897906092111953e-05
+19090 mean_square_loss: 9.826455425354652e-06
+mean_multi real mean power error: 0.2465629279613495 valid loss 2.30388995987596e-05
+19100 mean_square_loss: 1.1676207577693276e-05
+mean_multi real mean power error: 0.20597723126411438 valid loss 2.100208803312853e-05
+19110 mean_square_loss: 1.1627787898760289e-05
+mean_multi real mean power error: 0.22704964876174927 valid loss 2.2228687157621607e-05
+19120 mean_square_loss: 1.3997207133797929e-05
+mean_multi real mean power error: 0.23940207064151764 valid loss 2.3239368601934984e-05
+19130 mean_square_loss: 1.0237583410344087e-05
+mean_multi real mean power error: 0.23547178506851196 valid loss 2.557602601882536e-05
+19140 mean_square_loss: 1.4374058991961647e-05
+mean_multi real mean power error: 0.2627090513706207 valid loss 2.436013164697215e-05
+19150 mean_square_loss: 1.068742585630389e-05
+mean_multi real mean power error: 0.2393922358751297 valid loss 2.1499969079741277e-05
+19160 mean_square_loss: 1.7286552974837832e-05
+mean_multi real mean power error: 0.25953221321105957 valid loss 2.5938365070032887e-05
+19170 mean_square_loss: 1.9811202946584672e-05
+mean_multi real mean power error: 0.2866586446762085 valid loss 3.127898889943026e-05
+19180 mean_square_loss: 1.041587529471144e-05
+mean_multi real mean power error: 0.23711702227592468 valid loss 2.3112403141567484e-05
+19190 mean_square_loss: 4.330022875365103e-06
+mean_multi real mean power error: 0.2556132376194 valid loss 2.388447683188133e-05
+19200 mean_square_loss: 3.3133866963908076e-05
+mean_multi real mean power error: 0.2858414649963379 valid loss 2.8740787456627004e-05
+19210 mean_square_loss: 7.132926839403808e-06
+mean_multi real mean power error: 0.23143133521080017 valid loss 2.6137820896110497e-05
+19220 mean_square_loss: 6.1009709497739095e-06
+mean_multi real mean power error: 0.2218269556760788 valid loss 2.5353807359351777e-05
+19230 mean_square_loss: 1.1613043170655146e-05
+mean_multi real mean power error: 0.23378968238830566 valid loss 2.367087836319115e-05
+19240 mean_square_loss: 4.401041951496154e-05
+mean_multi real mean power error: 0.22478781640529633 valid loss 2.3333461285801604e-05
+19250 mean_square_loss: 7.319600626942702e-06
+mean_multi real mean power error: 0.2598054111003876 valid loss 2.4764160116319545e-05
+19260 mean_square_loss: 1.9014325516764075e-05
+mean_multi real mean power error: 0.22811375558376312 valid loss 2.3381184291793033e-05
+19270 mean_square_loss: 1.1385254765627906e-05
+mean_multi real mean power error: 0.23206782341003418 valid loss 2.4372719053644687e-05
+19280 mean_square_loss: 4.115706360607874e-06
+mean_multi real mean power error: 0.22436657547950745 valid loss 2.2070387785788625e-05
+19290 mean_square_loss: 1.1921763871214353e-05
+mean_multi real mean power error: 0.21368269622325897 valid loss 2.2438704036176205e-05
+19300 mean_square_loss: 6.82426662024227e-06
+mean_multi real mean power error: 0.2305069863796234 valid loss 2.436699651298113e-05
+19310 mean_square_loss: 6.853917057014769e-06
+mean_multi real mean power error: 0.2255472093820572 valid loss 2.2178262952365912e-05
+19320 mean_square_loss: 1.4660419765277766e-05
+mean_multi real mean power error: 0.22732436656951904 valid loss 2.203994881710969e-05
+19330 mean_square_loss: 2.3623455490451306e-05
+mean_multi real mean power error: 0.2264529913663864 valid loss 2.2141981389722787e-05
+19340 mean_square_loss: 6.614886842726264e-06
+mean_multi real mean power error: 0.24090388417243958 valid loss 2.535925159463659e-05
+19350 mean_square_loss: 9.355458132631611e-06
+mean_multi real mean power error: 0.24730618298053741 valid loss 2.6450061341165565e-05
+19360 mean_square_loss: 3.275142807979137e-05
+mean_multi real mean power error: 0.31674057245254517 valid loss 5.6114356993930414e-05
+19370 mean_square_loss: 4.4432192225940526e-05
+mean_multi real mean power error: 0.5207298398017883 valid loss 4.738142160931602e-05
+19380 mean_square_loss: 8.123915904434398e-06
+mean_multi real mean power error: 0.2769298851490021 valid loss 3.810804264503531e-05
+19390 mean_square_loss: 2.0714986021630466e-05
+mean_multi real mean power error: 0.28416743874549866 valid loss 2.854806007235311e-05
+19400 mean_square_loss: 1.6769676221883856e-05
+mean_multi real mean power error: 0.2569139003753662 valid loss 2.6195430109510198e-05
+19410 mean_square_loss: 3.562646270438563e-06
+mean_multi real mean power error: 0.23239845037460327 valid loss 2.2200225430424325e-05
+19420 mean_square_loss: 3.76407551812008e-05
+mean_multi real mean power error: 0.25994110107421875 valid loss 3.568235115380958e-05
+19430 mean_square_loss: 3.0559225706383586e-05
+mean_multi real mean power error: 0.29415082931518555 valid loss 3.687553180498071e-05
+19440 mean_square_loss: 2.830610901582986e-05
+mean_multi real mean power error: 0.3201584815979004 valid loss 4.279836866771802e-05
+19450 mean_square_loss: 1.1782849469454959e-05
+mean_multi real mean power error: 0.2649919390678406 valid loss 2.998244235641323e-05
+19460 mean_square_loss: 3.4443222830304876e-05
+mean_multi real mean power error: 0.2498563528060913 valid loss 2.440557727823034e-05
+19470 mean_square_loss: 2.1352514522732235e-05
+mean_multi real mean power error: 0.2368471920490265 valid loss 2.278627835039515e-05
+19480 mean_square_loss: 1.6928401237237267e-05
+mean_multi real mean power error: 0.22332343459129333 valid loss 2.0996581952203996e-05
+19490 mean_square_loss: 4.9099617172032595e-06
+mean_multi real mean power error: 0.218754842877388 valid loss 2.1019754058215767e-05
+19500 mean_square_loss: 8.439177690888755e-06
+mean_multi real mean power error: 0.2257530689239502 valid loss 2.1186386220506392e-05
+19510 mean_square_loss: 2.1720714357797988e-05
+mean_multi real mean power error: 0.21442930400371552 valid loss 2.9834545784979127e-05
+19520 mean_square_loss: 2.9603002985822968e-05
+mean_multi real mean power error: 0.25841280817985535 valid loss 3.3834508940344676e-05
+19530 mean_square_loss: 9.281125676352531e-05
+mean_multi real mean power error: 0.23946219682693481 valid loss 2.6568373868940398e-05
+19540 mean_square_loss: 2.4224982553278096e-05
+mean_multi real mean power error: 0.2283783257007599 valid loss 2.343963751627598e-05
+19550 mean_square_loss: 5.368242455006111e-06
+mean_multi real mean power error: 0.2209998220205307 valid loss 2.427292383799795e-05
+19560 mean_square_loss: 1.0194634342042264e-05
+mean_multi real mean power error: 0.2279064804315567 valid loss 2.5764587917365134e-05
+19570 mean_square_loss: 6.6080601754947565e-06
+mean_multi real mean power error: 0.24432121217250824 valid loss 2.6724233975983225e-05
+19580 mean_square_loss: 9.918528121488634e-06
+mean_multi real mean power error: 0.24752311408519745 valid loss 3.223567546228878e-05
+19590 mean_square_loss: 1.5723000615253113e-05
+mean_multi real mean power error: 0.2709575593471527 valid loss 3.159457628498785e-05
+19600 mean_square_loss: 2.7149184461450204e-05
+mean_multi real mean power error: 0.2119501680135727 valid loss 2.636501449160278e-05
+19610 mean_square_loss: 1.1970085324719548e-05
+mean_multi real mean power error: 0.2467469573020935 valid loss 2.647659493959509e-05
+19620 mean_square_loss: 3.874247340718284e-06
+mean_multi real mean power error: 0.24617229402065277 valid loss 2.6324512873543426e-05
+19630 mean_square_loss: 1.9971581423305906e-05
+mean_multi real mean power error: 0.232382670044899 valid loss 2.4653400032548234e-05
+19640 mean_square_loss: 7.512753654737025e-05
+mean_multi real mean power error: 0.22916649281978607 valid loss 2.3665623302804306e-05
+19650 mean_square_loss: 1.6390469681937248e-05
+mean_multi real mean power error: 0.22124150395393372 valid loss 2.555418359406758e-05
+19660 mean_square_loss: 1.1729493053280748e-05
+mean_multi real mean power error: 0.22929444909095764 valid loss 2.534491432015784e-05
+19670 mean_square_loss: 3.812512431977666e-06
+mean_multi real mean power error: 0.22443225979804993 valid loss 2.4469114578096196e-05
+19680 mean_square_loss: 5.0018675210594665e-06
+mean_multi real mean power error: 0.23768804967403412 valid loss 2.5679792088340037e-05
+19690 mean_square_loss: 6.6809534473577514e-06
+mean_multi real mean power error: 0.24625977873802185 valid loss 2.624165608722251e-05
+19700 mean_square_loss: 3.001000550284516e-05
+mean_multi real mean power error: 0.2176363170146942 valid loss 2.306795067852363e-05
+19710 mean_square_loss: 1.2453043382265605e-05
+mean_multi real mean power error: 0.2226129025220871 valid loss 2.316572135896422e-05
+19720 mean_square_loss: 7.770629053993616e-06
+mean_multi real mean power error: 0.22242189943790436 valid loss 2.2623062250204384e-05
+19730 mean_square_loss: 9.82143228611676e-06
+mean_multi real mean power error: 0.23778602480888367 valid loss 2.4274328097817488e-05
+19740 mean_square_loss: 5.891558885195991e-06
+mean_multi real mean power error: 0.2218550741672516 valid loss 2.5375258701387793e-05
+19750 mean_square_loss: 2.8848948204540648e-05
+mean_multi real mean power error: 0.2431701272726059 valid loss 2.809320176311303e-05
+19760 mean_square_loss: 7.243906566145597e-06
+mean_multi real mean power error: 0.2146962285041809 valid loss 2.7138437872054055e-05
+19770 mean_square_loss: 8.081438863882795e-06
+mean_multi real mean power error: 0.2493135631084442 valid loss 2.8936057788087055e-05
+19780 mean_square_loss: 6.3514517023577355e-06
+mean_multi real mean power error: 0.2315039336681366 valid loss 2.7089912691735663e-05
+19790 mean_square_loss: 2.2342837837641127e-05
+mean_multi real mean power error: 0.2337912768125534 valid loss 2.4719518478377722e-05
+19800 mean_square_loss: 2.008581031986978e-05
+mean_multi real mean power error: 0.2290293425321579 valid loss 2.1969764929963276e-05
+19810 mean_square_loss: 1.8103935872204602e-05
+mean_multi real mean power error: 0.2208670973777771 valid loss 2.2247912056627683e-05
+19820 mean_square_loss: 1.7318863683613017e-05
+mean_multi real mean power error: 0.24467799067497253 valid loss 2.417611722194124e-05
+19830 mean_square_loss: 2.3396307824441465e-06
+mean_multi real mean power error: 0.24662351608276367 valid loss 2.4236851459136233e-05
+19840 mean_square_loss: 6.913396646268666e-06
+mean_multi real mean power error: 0.2585136890411377 valid loss 2.580327600298915e-05
+19850 mean_square_loss: 1.0058629413833842e-05
+mean_multi real mean power error: 0.24059469997882843 valid loss 2.4600489268777892e-05
+19860 mean_square_loss: 7.638642273377627e-06
+mean_multi real mean power error: 0.22796347737312317 valid loss 2.2436288418248296e-05
+19870 mean_square_loss: 1.904756027215626e-05
+mean_multi real mean power error: 0.24334925413131714 valid loss 2.5479223040747456e-05
+19880 mean_square_loss: 3.870700766128721e-06
+mean_multi real mean power error: 0.25232788920402527 valid loss 2.7258860427537e-05
+19890 mean_square_loss: 9.418155968887731e-06
+mean_multi real mean power error: 0.2586464285850525 valid loss 2.5622202883823775e-05
+19900 mean_square_loss: 1.3192366168368608e-05
+mean_multi real mean power error: 0.24106328189373016 valid loss 2.6148914912482724e-05
+19910 mean_square_loss: 1.0365491107222624e-05
+mean_multi real mean power error: 0.2882457971572876 valid loss 2.8006897991872393e-05
+19920 mean_square_loss: 7.296256171684945e-06
+mean_multi real mean power error: 0.21945926547050476 valid loss 2.3463329853257164e-05
+19930 mean_square_loss: 9.369661711389199e-06
+mean_multi real mean power error: 0.23585227131843567 valid loss 2.452702210575808e-05
+19940 mean_square_loss: 2.1514306354220025e-05
+mean_multi real mean power error: 0.20954905450344086 valid loss 2.2798049030825496e-05
+19950 mean_square_loss: 1.4470541827904526e-05
+mean_multi real mean power error: 0.23003113269805908 valid loss 2.2959358830121346e-05
+19960 mean_square_loss: 5.205880825087661e-06
+mean_multi real mean power error: 0.2477414458990097 valid loss 2.323298940609675e-05
+19970 mean_square_loss: 2.8107973776059225e-05
+mean_multi real mean power error: 0.21719104051589966 valid loss 2.1863017536816187e-05
+19980 mean_square_loss: 3.079527596128173e-05
+mean_multi real mean power error: 0.23870302736759186 valid loss 2.2276157324085943e-05
+19990 mean_square_loss: 5.88595139561221e-05
+mean_multi real mean power error: 0.21584700047969818 valid loss 2.358119309064932e-05
+
+
+35140 mean_square_loss: 3.4997001421288587e-06
+mean_multi real mean power error: 0.18690136075019836 valid loss 1.7329859474557452e-05
+35150 mean_square_loss: 2.652820739967865e-06
+mean_multi real mean power error: 0.18565525114536285 valid loss 1.6919140762183815e-05
+35160 mean_square_loss: 3.798626721618348e-06
+mean_multi real mean power error: 0.17670731246471405 valid loss 1.6699366824468598e-05
+35170 mean_square_loss: 2.846128836608841e-06
+mean_multi real mean power error: 0.1669517308473587 valid loss 1.651149614190217e-05
+35180 mean_square_loss: 5.13979694005684e-06
+mean_multi real mean power error: 0.18828602135181427 valid loss 1.7876907804748043e-05
+35190 mean_square_loss: 9.962672265828587e-06
+mean_multi real mean power error: 0.18927055597305298 valid loss 1.8113274563802406e-05
+35200 mean_square_loss: 4.9853779273689725e-06
+mean_multi real mean power error: 0.1889127939939499 valid loss 1.8616532543092035e-05
+35210 mean_square_loss: 7.655961780983489e-06
+mean_multi real mean power error: 0.27625158429145813 valid loss 1.9714907466550358e-05
+35220 mean_square_loss: 2.8938513423781842e-05
+mean_multi real mean power error: 0.2764531373977661 valid loss 2.813862192851957e-05
+35230 mean_square_loss: 9.051794222614262e-06
+mean_multi real mean power error: 0.4219219982624054 valid loss 2.4456654500681907e-05
+35240 mean_square_loss: 6.862191185064148e-06
+mean_multi real mean power error: 0.2535768151283264 valid loss 2.292164572281763e-05
+35250 mean_square_loss: 3.457843831711216e-06
+mean_multi real mean power error: 0.20831476151943207 valid loss 1.7045485947164707e-05
+35260 mean_square_loss: 3.4331935694353888e-06
+mean_multi real mean power error: 0.20085395872592926 valid loss 1.6704550944268703e-05
+35270 mean_square_loss: 4.821972197532887e-06
+mean_multi real mean power error: 0.1973465234041214 valid loss 1.635358239582274e-05
+35280 mean_square_loss: 5.316821443557274e-06
+mean_multi real mean power error: 0.16738179326057434 valid loss 1.5687077393522486e-05
+35290 mean_square_loss: 1.0829451639438048e-05
+mean_multi real mean power error: 0.18484166264533997 valid loss 1.6668222087901086e-05
+35300 mean_square_loss: 1.427655661245808e-05
+mean_multi real mean power error: 0.1858825832605362 valid loss 1.641991184442304e-05
+35310 mean_square_loss: 3.570491753634997e-05
+mean_multi real mean power error: 0.2362833172082901 valid loss 1.8242717487737536e-05
+35320 mean_square_loss: 6.117551947681932e-06
+mean_multi real mean power error: 0.21638718247413635 valid loss 1.8435035599395633e-05
+35330 mean_square_loss: 1.4377899788087234e-05
+mean_multi real mean power error: 0.20395104587078094 valid loss 1.7868209397420287e-05
+35340 mean_square_loss: 8.386256013181992e-06
+mean_multi real mean power error: 0.2013532817363739 valid loss 1.6537800547666848e-05
+35350 mean_square_loss: 3.312330136395758e-06
+mean_multi real mean power error: 0.18240360915660858 valid loss 1.6770491129136644e-05
+35360 mean_square_loss: 3.955598003813066e-06
+mean_multi real mean power error: 0.16340669989585876 valid loss 1.6824402337078936e-05
+35370 mean_square_loss: 4.058545073348796e-06
+mean_multi real mean power error: 0.15414342284202576 valid loss 1.6884283468243666e-05
+35380 mean_square_loss: 1.998742391151609e-06
+mean_multi real mean power error: 0.19137275218963623 valid loss 1.757573954819236e-05
+35390 mean_square_loss: 2.2628269107372034e-06
+mean_multi real mean power error: 0.17190079391002655 valid loss 1.7256899809581228e-05
+35400 mean_square_loss: 6.0062652664782945e-06
+mean_multi real mean power error: 0.18632455170154572 valid loss 1.751891068124678e-05
+35410 mean_square_loss: 2.117087205988355e-06
+mean_multi real mean power error: 0.18802745640277863 valid loss 1.742598215059843e-05
+35420 mean_square_loss: 3.947905952372821e-06
+mean_multi real mean power error: 0.191008523106575 valid loss 1.7101334378821775e-05
+35430 mean_square_loss: 2.650052238095668e-06
+mean_multi real mean power error: 0.17213186621665955 valid loss 1.6398074876633473e-05
+35440 mean_square_loss: 2.279010459460551e-06
+mean_multi real mean power error: 0.1722976118326187 valid loss 1.6200308891711757e-05
+35450 mean_square_loss: 1.777022248461435e-06
+mean_multi real mean power error: 0.1777864545583725 valid loss 1.6106774637592025e-05
+35460 mean_square_loss: 4.993304628442274e-06
+mean_multi real mean power error: 0.2198125720024109 valid loss 1.7174281310872175e-05
+35470 mean_square_loss: 6.393569037754787e-06
+mean_multi real mean power error: 0.17727358639240265 valid loss 1.6281899661407806e-05
+35480 mean_square_loss: 2.019339035541634e-06
+mean_multi real mean power error: 0.17234861850738525 valid loss 1.6359483197447844e-05
+35490 mean_square_loss: 6.580500212294282e-06
+mean_multi real mean power error: 0.16391031444072723 valid loss 1.6219039025600068e-05
+35500 mean_square_loss: 4.269027613190701e-06
+mean_multi real mean power error: 0.18357622623443604 valid loss 1.640015580051113e-05
+35510 mean_square_loss: 5.364809112506919e-06
+mean_multi real mean power error: 0.17226535081863403 valid loss 1.6283844161080196e-05
+35520 mean_square_loss: 1.3344616490940098e-05
+mean_multi real mean power error: 0.18160168826580048 valid loss 1.700781831459608e-05
+35530 mean_square_loss: 7.2423626988893375e-06
+mean_multi real mean power error: 0.16840028762817383 valid loss 1.6393740224884823e-05
+35540 mean_square_loss: 5.021447577746585e-06
+mean_multi real mean power error: 0.16725869476795197 valid loss 1.652830542298034e-05
+35550 mean_square_loss: 4.216978413751349e-05
+mean_multi real mean power error: 0.1640232801437378 valid loss 1.5868095943005756e-05
+35560 mean_square_loss: 3.7154052279220195e-06
+mean_multi real mean power error: 0.1641126126050949 valid loss 1.5716317648184486e-05
+35570 mean_square_loss: 2.114936796715483e-05
+mean_multi real mean power error: 0.26591259241104126 valid loss 2.0719222447951324e-05
+35580 mean_square_loss: 8.427778993791435e-06
+mean_multi real mean power error: 0.1806854009628296 valid loss 1.879551200545393e-05
+35590 mean_square_loss: 1.0408303751319181e-05
+mean_multi real mean power error: 0.1547873318195343 valid loss 1.8506276319385506e-05
+35600 mean_square_loss: 7.0044625317677855e-06
+mean_multi real mean power error: 0.26532939076423645 valid loss 1.9578115825424902e-05
+35610 mean_square_loss: 5.309241259965347e-06
+mean_multi real mean power error: 0.19171904027462006 valid loss 1.7467871657572687e-05
+35620 mean_square_loss: 4.80310118291527e-05
+mean_multi real mean power error: 0.22727730870246887 valid loss 1.7703627236187458e-05
+35630 mean_square_loss: 4.861477646045387e-05
+mean_multi real mean power error: 0.14925971627235413 valid loss 1.7761694834916852e-05
+35640 mean_square_loss: 5.727916231990093e-06
+mean_multi real mean power error: 0.20183761417865753 valid loss 1.9577908460632898e-05
+35650 mean_square_loss: 2.581601802376099e-05
+mean_multi real mean power error: 0.18477734923362732 valid loss 2.0125435185036622e-05
+35660 mean_square_loss: 2.0257546566426754e-05
+mean_multi real mean power error: 0.19470952451229095 valid loss 1.7633356037549675e-05
+35670 mean_square_loss: 1.0245745215797797e-05
+mean_multi real mean power error: 0.19015923142433167 valid loss 1.6848318409756757e-05
+35680 mean_square_loss: 4.60220371678588e-06
+mean_multi real mean power error: 0.18281278014183044 valid loss 1.6978176063275896e-05
+35690 mean_square_loss: 1.4548208127962425e-05
+mean_multi real mean power error: 0.1638309210538864 valid loss 1.6484806110383943e-05
+35700 mean_square_loss: 2.914944388976437e-06
+mean_multi real mean power error: 0.16512846946716309 valid loss 1.7951413610717282e-05
+35710 mean_square_loss: 8.763827281654812e-06
+mean_multi real mean power error: 0.194610133767128 valid loss 1.8354856365476735e-05
+35720 mean_square_loss: 2.909802105932613e-06
+mean_multi real mean power error: 0.165328711271286 valid loss 1.6944719391176477e-05
+35730 mean_square_loss: 8.850776794133708e-06
+mean_multi real mean power error: 0.1894313395023346 valid loss 1.710010110400617e-05
+35740 mean_square_loss: 3.856725015793927e-06
+mean_multi real mean power error: 0.17455443739891052 valid loss 1.6289041013806127e-05
+35750 mean_square_loss: 6.410609330487205e-06
+mean_multi real mean power error: 0.18598896265029907 valid loss 1.660247471590992e-05
+35760 mean_square_loss: 9.156033229373861e-06
+mean_multi real mean power error: 0.2219201773405075 valid loss 2.2750167772755958e-05
+35770 mean_square_loss: 5.442443125502905e-06
+mean_multi real mean power error: 0.2187073826789856 valid loss 2.2936786990612745e-05
+35780 mean_square_loss: 3.821171503659571e-06
+mean_multi real mean power error: 0.17490807175636292 valid loss 1.892090222099796e-05
+35790 mean_square_loss: 6.0908619161637034e-06
+mean_multi real mean power error: 0.22628720104694366 valid loss 1.8437478502164595e-05
+35800 mean_square_loss: 3.148957603116287e-06
+mean_multi real mean power error: 0.19978511333465576 valid loss 1.7304289940511808e-05
+35810 mean_square_loss: 2.1534564439207315e-05
+mean_multi real mean power error: 0.19545723497867584 valid loss 1.6860753021319397e-05
+35820 mean_square_loss: 2.1719188225688413e-05
+mean_multi real mean power error: 0.1943725347518921 valid loss 1.617950874788221e-05
+35830 mean_square_loss: 2.1868663679924794e-06
+mean_multi real mean power error: 0.20116454362869263 valid loss 1.7370324712828733e-05
+35840 mean_square_loss: 5.362119281926425e-06
+mean_multi real mean power error: 0.16632285714149475 valid loss 1.874989720818121e-05
+35850 mean_square_loss: 3.929803369828733e-06
+mean_multi real mean power error: 0.17455027997493744 valid loss 1.806569161999505e-05
+35860 mean_square_loss: 4.235193046042696e-06
+mean_multi real mean power error: 0.19440507888793945 valid loss 1.885716301330831e-05
+35870 mean_square_loss: 6.992982434894657e-06
+mean_multi real mean power error: 0.1999681442975998 valid loss 1.8570086467661895e-05
+35880 mean_square_loss: 5.827915629197378e-06
+mean_multi real mean power error: 0.19287201762199402 valid loss 1.6975754988379776e-05
+35890 mean_square_loss: 2.3233551473822445e-05
+mean_multi real mean power error: 0.18082264065742493 valid loss 1.601315670995973e-05
+35900 mean_square_loss: 3.99777309212368e-06
+mean_multi real mean power error: 0.19797489047050476 valid loss 1.7592850781511515e-05
+35910 mean_square_loss: 3.9369538171740714e-06
+mean_multi real mean power error: 0.20180878043174744 valid loss 1.8458757040207274e-05
+35920 mean_square_loss: 6.0175520957272965e-06
+mean_multi real mean power error: 0.18523827195167542 valid loss 1.863348916231189e-05
+35930 mean_square_loss: 7.215119694592431e-06
+mean_multi real mean power error: 0.18832983076572418 valid loss 1.6538833733648062e-05
+35940 mean_square_loss: 2.2290374545264058e-05
+mean_multi real mean power error: 0.18929781019687653 valid loss 1.6250678527285345e-05
+35950 mean_square_loss: 3.4826932733267313e-06
+mean_multi real mean power error: 0.18274199962615967 valid loss 1.5682779121561907e-05
+35960 mean_square_loss: 2.8150361686130054e-05
+mean_multi real mean power error: 0.19612905383110046 valid loss 1.612503365322482e-05
+35970 mean_square_loss: 1.906325815070886e-05
+mean_multi real mean power error: 0.22541356086730957 valid loss 1.6368332580896094e-05
+35980 mean_square_loss: 4.905677997157909e-06
+mean_multi real mean power error: 0.2205347716808319 valid loss 1.6979503925540484e-05
+35990 mean_square_loss: 2.4340692107216455e-05
+mean_multi real mean power error: 0.30189448595046997 valid loss 2.002135443035513e-05
+36000 mean_square_loss: 1.2447337212506682e-05
+mean_multi real mean power error: 0.20888002216815948 valid loss 1.8302866010344587e-05
+36010 mean_square_loss: 3.0478879125439562e-05
+mean_multi real mean power error: 0.23717233538627625 valid loss 1.6469901311211288e-05
+36020 mean_square_loss: 1.0603917871776503e-05
+mean_multi real mean power error: 0.2908998727798462 valid loss 2.07635330298217e-05
+36030 mean_square_loss: 2.704732287384104e-05
+mean_multi real mean power error: 0.2743378281593323 valid loss 1.8518096112529747e-05
+36040 mean_square_loss: 1.0433077477500774e-05
+mean_multi real mean power error: 0.21481356024742126 valid loss 1.841989615058992e-05
+36050 mean_square_loss: 8.32315254228888e-06
+mean_multi real mean power error: 0.26715829968452454 valid loss 1.872571010608226e-05
+36060 mean_square_loss: 7.499832008761587e-06
+mean_multi real mean power error: 0.1756412386894226 valid loss 1.683227310422808e-05
+36070 mean_square_loss: 1.9988936401205137e-05
+mean_multi real mean power error: 0.19566217064857483 valid loss 1.6837271687109023e-05
+36080 mean_square_loss: 5.927268830419052e-06
+mean_multi real mean power error: 0.17310482263565063 valid loss 1.5758521840325557e-05
+36090 mean_square_loss: 1.3224176655057818e-05
+mean_multi real mean power error: 0.2770159840583801 valid loss 1.9937686374760233e-05
+36100 mean_square_loss: 2.1156181901460513e-05
+mean_multi real mean power error: 0.27873992919921875 valid loss 2.224179479526356e-05
+36110 mean_square_loss: 9.538263839203864e-06
+mean_multi real mean power error: 0.21692639589309692 valid loss 1.8730330339167267e-05
+36120 mean_square_loss: 3.923965778085403e-06
+mean_multi real mean power error: 0.18453845381736755 valid loss 1.7391435903846286e-05
+36130 mean_square_loss: 8.252495717897546e-06
+mean_multi real mean power error: 0.17906557023525238 valid loss 1.607912236067932e-05
+36140 mean_square_loss: 1.4894292689859867e-05
+mean_multi real mean power error: 0.1848543882369995 valid loss 1.784495179890655e-05
+36150 mean_square_loss: 5.792090632894542e-06
+mean_multi real mean power error: 0.18424992263317108 valid loss 1.7416812625015154e-05
+36160 mean_square_loss: 1.0494574780750554e-05
+mean_multi real mean power error: 0.18470166623592377 valid loss 1.7769292753655463e-05
+36170 mean_square_loss: 6.184920948726358e-06
+mean_multi real mean power error: 0.2036662995815277 valid loss 1.7637608834775165e-05
+36180 mean_square_loss: 9.152860911854077e-06
+mean_multi real mean power error: 0.1942720115184784 valid loss 1.6690752090653405e-05
+36190 mean_square_loss: 2.543993559811497e-06
+mean_multi real mean power error: 0.16974453628063202 valid loss 1.5823357898625545e-05
+36200 mean_square_loss: 5.110437541588908e-06
+mean_multi real mean power error: 0.17950677871704102 valid loss 1.6783973478595726e-05
+36210 mean_square_loss: 4.6302543523779605e-06
+mean_multi real mean power error: 0.19103758037090302 valid loss 1.9476812667562626e-05
+36220 mean_square_loss: 7.484466095775133e-06
+mean_multi real mean power error: 0.19705192744731903 valid loss 1.779955164238345e-05
+36230 mean_square_loss: 0.00014722664491273463
+mean_multi real mean power error: 0.31681010127067566 valid loss 3.671256126835942e-05
+36240 mean_square_loss: 1.5196776985249016e-05
+mean_multi real mean power error: 0.5580511689186096 valid loss 3.2693351386114955e-05
+36250 mean_square_loss: 1.0260459930577781e-05
+mean_multi real mean power error: 0.3190321922302246 valid loss 2.575516191427596e-05
+36260 mean_square_loss: 1.0717010809457861e-05
+mean_multi real mean power error: 0.2784539759159088 valid loss 2.2282581994659267e-05
+36270 mean_square_loss: 2.769015554804355e-05
+mean_multi real mean power error: 0.21793557703495026 valid loss 1.8873146473197266e-05
+36280 mean_square_loss: 3.4199140372948023e-06
+mean_multi real mean power error: 0.18578460812568665 valid loss 1.6763975509093143e-05
+36290 mean_square_loss: 3.2153163829207188e-06
+mean_multi real mean power error: 0.17216640710830688 valid loss 1.745587906043511e-05
+36300 mean_square_loss: 9.068062354344875e-06
+mean_multi real mean power error: 0.19680267572402954 valid loss 1.7731315892888233e-05
+36310 mean_square_loss: 2.2305874153971672e-05
+mean_multi real mean power error: 0.17019429802894592 valid loss 1.730494841467589e-05
+36320 mean_square_loss: 5.0420720071997494e-05
+mean_multi real mean power error: 0.20419420301914215 valid loss 1.8710405129240826e-05
+36330 mean_square_loss: 4.722736412077211e-05
+mean_multi real mean power error: 0.169999897480011 valid loss 1.7001613741740584e-05
+36340 mean_square_loss: 8.963363143266179e-06
+mean_multi real mean power error: 0.18266546726226807 valid loss 1.7945023500942625e-05
+36350 mean_square_loss: 4.187983449810417e-06
+mean_multi real mean power error: 0.18523524701595306 valid loss 1.871411041065585e-05
+36360 mean_square_loss: 1.235956915479619e-05
+mean_multi real mean power error: 0.16800284385681152 valid loss 1.7572649085195735e-05
+36370 mean_square_loss: 9.68242693488719e-06
+mean_multi real mean power error: 0.28450682759284973 valid loss 2.3393029550788924e-05
+36380 mean_square_loss: 1.072449958883226e-05
+mean_multi real mean power error: 0.2139878273010254 valid loss 1.998160223593004e-05
+36390 mean_square_loss: 5.730466000386514e-06
+mean_multi real mean power error: 0.18818317353725433 valid loss 1.7743494026944973e-05
+36400 mean_square_loss: 3.47780382981e-06
+mean_multi real mean power error: 0.19512087106704712 valid loss 1.6812373360153288e-05
+36410 mean_square_loss: 5.243316991254687e-06
+mean_multi real mean power error: 0.17575444281101227 valid loss 1.653418985370081e-05
+36420 mean_square_loss: 7.462224402843276e-06
+mean_multi real mean power error: 0.20457081496715546 valid loss 1.92039915418718e-05
+36430 mean_square_loss: 4.254977284290362e-06
+mean_multi real mean power error: 0.21066495776176453 valid loss 1.9124376194668002e-05
+36440 mean_square_loss: 5.7172492233803496e-06
+mean_multi real mean power error: 0.21786867082118988 valid loss 1.97147237486206e-05
+36450 mean_square_loss: 3.781399936997332e-05
+mean_multi real mean power error: 0.24720636010169983 valid loss 2.605827285151463e-05
+36460 mean_square_loss: 1.1303592145850416e-05
+mean_multi real mean power error: 0.19642436504364014 valid loss 1.891714782686904e-05
+36470 mean_square_loss: 3.046667870876263e-06
+mean_multi real mean power error: 0.3402971625328064 valid loss 2.6425690521136858e-05
+36480 mean_square_loss: 3.618428308982402e-05
+mean_multi real mean power error: 0.29974037408828735 valid loss 3.164268491673283e-05
+36490 mean_square_loss: 9.764598871697672e-06
+mean_multi real mean power error: 0.27408066391944885 valid loss 2.4298673451994546e-05
+36500 mean_square_loss: 6.295622824836755e-06
+mean_multi real mean power error: 0.28176742792129517 valid loss 2.161661359423306e-05
+36510 mean_square_loss: 7.243937034218106e-06
+mean_multi real mean power error: 0.24593374133110046 valid loss 1.9342936866451055e-05
+36520 mean_square_loss: 7.868984539527446e-06
+mean_multi real mean power error: 0.23675622045993805 valid loss 1.9566770788514987e-05
+36530 mean_square_loss: 0.00010704923624871299
+mean_multi real mean power error: 0.2568889558315277 valid loss 2.847067116817925e-05
+36540 mean_square_loss: 2.6153384169447236e-05
+mean_multi real mean power error: 0.3809177875518799 valid loss 3.677613858599216e-05
+36550 mean_square_loss: 6.69796327201766e-06
+mean_multi real mean power error: 0.4288772940635681 valid loss 3.7696430808864534e-05
+36560 mean_square_loss: 9.617935575079173e-06
+mean_multi real mean power error: 0.2957926094532013 valid loss 2.7911570214200765e-05
+36570 mean_square_loss: 5.704874183720676e-06
+mean_multi real mean power error: 0.26328837871551514 valid loss 2.411374225630425e-05
+36580 mean_square_loss: 3.718864491020213e-06
+mean_multi real mean power error: 0.29521650075912476 valid loss 2.4238746846094728e-05
+36590 mean_square_loss: 1.355431231786497e-05
+mean_multi real mean power error: 0.31307002902030945 valid loss 2.4535207558074035e-05
+36600 mean_square_loss: 1.968981268873904e-05
+mean_multi real mean power error: 0.2546955347061157 valid loss 2.1025174646638334e-05
+36610 mean_square_loss: 4.283870566723635e-06
+mean_multi real mean power error: 0.2957153022289276 valid loss 2.3369098926195875e-05
+36620 mean_square_loss: 1.890750809252495e-06
+mean_multi real mean power error: 0.35293295979499817 valid loss 2.7146446882397868e-05
+36630 mean_square_loss: 1.3645357284985948e-05
+mean_multi real mean power error: 0.34613844752311707 valid loss 2.7323374524712563e-05
+36640 mean_square_loss: 5.965688615106046e-06
+mean_multi real mean power error: 0.3199083209037781 valid loss 2.5499972252873704e-05
+36650 mean_square_loss: 1.1930721484532114e-05
+mean_multi real mean power error: 0.2894054651260376 valid loss 2.3502792828367092e-05
+36660 mean_square_loss: 7.03394107404165e-06
+mean_multi real mean power error: 0.27285662293434143 valid loss 2.251378282380756e-05
+36670 mean_square_loss: 6.412341463146731e-06
+mean_multi real mean power error: 0.23970851302146912 valid loss 1.958467146323528e-05
+36680 mean_square_loss: 7.502193966502091e-06
+mean_multi real mean power error: 0.19783759117126465 valid loss 1.670488745730836e-05
+36690 mean_square_loss: 6.601253971894039e-06
+mean_multi real mean power error: 0.2056185007095337 valid loss 1.8332561012357473e-05
+36700 mean_square_loss: 4.354728298494592e-05
+mean_multi real mean power error: 0.20369262993335724 valid loss 2.0798182958969846e-05
+36710 mean_square_loss: 4.562650701700477e-06
+mean_multi real mean power error: 0.2056942582130432 valid loss 1.9012290067621507e-05
+36720 mean_square_loss: 5.439235974336043e-05
+mean_multi real mean power error: 0.1999160349369049 valid loss 1.9660385078168474e-05
+36730 mean_square_loss: 1.5496721971430816e-05
+mean_multi real mean power error: 0.22029227018356323 valid loss 2.000181302719284e-05
+36740 mean_square_loss: 2.926773959188722e-06
+mean_multi real mean power error: 0.21268333494663239 valid loss 2.0858036805293523e-05
+36750 mean_square_loss: 3.619541530497372e-06
+mean_multi real mean power error: 0.18575070798397064 valid loss 1.773131953086704e-05
+36760 mean_square_loss: 2.270524191771983e-06
+mean_multi real mean power error: 0.2137105017900467 valid loss 1.817616976040881e-05
+36770 mean_square_loss: 3.633751703091548e-06
+mean_multi real mean power error: 0.20723719894886017 valid loss 1.8467257177690044e-05
+36780 mean_square_loss: 5.0456419558031484e-06
+mean_multi real mean power error: 0.21204352378845215 valid loss 1.9372067981748842e-05
+36790 mean_square_loss: 4.9060922719945665e-06
+mean_multi real mean power error: 0.1909818798303604 valid loss 1.8693675883696415e-05
+36800 mean_square_loss: 3.1034735457069473e-06
+mean_multi real mean power error: 0.2018013745546341 valid loss 1.951313970494084e-05
+36810 mean_square_loss: 1.2761365724145435e-06
+mean_multi real mean power error: 0.19627077877521515 valid loss 1.981758396141231e-05
+36820 mean_square_loss: 5.033162779000122e-06
+mean_multi real mean power error: 0.18759764730930328 valid loss 1.746295856719371e-05
+36830 mean_square_loss: 2.767706519080093e-06
+mean_multi real mean power error: 0.19199489057064056 valid loss 1.9283532310510054e-05
+36840 mean_square_loss: 6.657629455730785e-06
+mean_multi real mean power error: 0.23256227374076843 valid loss 2.2441166947828606e-05
+36850 mean_square_loss: 5.174363195692422e-06
+mean_multi real mean power error: 0.19633318483829498 valid loss 1.9014449208043516e-05
+36860 mean_square_loss: 6.537597982969601e-06
+mean_multi real mean power error: 0.18077637255191803 valid loss 1.6387974028475583e-05
+36870 mean_square_loss: 7.511232979595661e-06
+mean_multi real mean power error: 0.20959272980690002 valid loss 1.7513497368781827e-05
+36880 mean_square_loss: 1.5198619621514808e-05
+mean_multi real mean power error: 0.18491044640541077 valid loss 1.741030609991867e-05
+36890 mean_square_loss: 7.097917659848463e-06
+mean_multi real mean power error: 0.21071335673332214 valid loss 2.109728848154191e-05
+36900 mean_square_loss: 3.406694759178208e-06
+mean_multi real mean power error: 0.1770475059747696 valid loss 2.239229070255533e-05
+36910 mean_square_loss: 7.71846498537343e-06
+mean_multi real mean power error: 0.19681832194328308 valid loss 1.9396735297050327e-05
+36920 mean_square_loss: 1.2085044545528945e-05
+mean_multi real mean power error: 0.19584114849567413 valid loss 2.284349102410488e-05
+36930 mean_square_loss: 4.088817149749957e-06
+mean_multi real mean power error: 0.17530371248722076 valid loss 1.718928433547262e-05
+36940 mean_square_loss: 2.7208295705349883e-06
+mean_multi real mean power error: 0.1767246127128601 valid loss 1.71247902471805e-05
+36950 mean_square_loss: 4.315210389904678e-06
+mean_multi real mean power error: 0.15795470774173737 valid loss 1.600004907231778e-05
+36960 mean_square_loss: 2.6057803097501164e-06
+mean_multi real mean power error: 0.16521751880645752 valid loss 1.6541835066163912e-05
+36970 mean_square_loss: 1.833352325775195e-05
+mean_multi real mean power error: 0.18957006931304932 valid loss 1.835686998674646e-05
+36980 mean_square_loss: 4.285497652745107e-06
+mean_multi real mean power error: 0.17827995121479034 valid loss 1.7272755940211937e-05
+36990 mean_square_loss: 3.7344880183809437e-06
+mean_multi real mean power error: 0.17237237095832825 valid loss 1.6431011317763478e-05
+37000 mean_square_loss: 1.2695303666987456e-05
+mean_multi real mean power error: 0.17940764129161835 valid loss 1.6213598428294063e-05
+37010 mean_square_loss: 5.273471288091969e-06
+mean_multi real mean power error: 0.17974932491779327 valid loss 1.688081829342991e-05
+37020 mean_square_loss: 7.0335972850443795e-06
+mean_multi real mean power error: 0.20671012997627258 valid loss 1.7198530258610845e-05
+37030 mean_square_loss: 1.5988704035407864e-05
+mean_multi real mean power error: 0.17957961559295654 valid loss 1.5895007891231216e-05
+37040 mean_square_loss: 3.2087930321722524e-06
+mean_multi real mean power error: 0.16500750184059143 valid loss 1.5332381735788658e-05
+37050 mean_square_loss: 2.3092177343642106e-06
+mean_multi real mean power error: 0.1853199452161789 valid loss 1.6307149053318426e-05
+37060 mean_square_loss: 2.473303993610898e-06
+mean_multi real mean power error: 0.15516126155853271 valid loss 1.552843241370283e-05
+37070 mean_square_loss: 3.5967500480182935e-06
+mean_multi real mean power error: 0.17147234082221985 valid loss 1.5763644114485942e-05
+37080 mean_square_loss: 5.461074579216074e-06
+mean_multi real mean power error: 0.16642850637435913 valid loss 1.5867130059632473e-05
+37090 mean_square_loss: 5.196769052417949e-06
+mean_multi real mean power error: 0.15951843559741974 valid loss 1.6900032278499566e-05
+37100 mean_square_loss: 7.681366696488112e-06
+mean_multi real mean power error: 0.1856997013092041 valid loss 1.6999059880618006e-05
+37110 mean_square_loss: 1.9538545075192815e-06
+mean_multi real mean power error: 0.16454507410526276 valid loss 1.6313304513460025e-05
+37120 mean_square_loss: 3.5302066407894017e-06
+mean_multi real mean power error: 0.1712752878665924 valid loss 1.6313033484038897e-05
+37130 mean_square_loss: 1.1280785656708758e-05
+mean_multi real mean power error: 0.2042945921421051 valid loss 1.9697346942848526e-05
+37140 mean_square_loss: 1.5432382497237995e-05
+mean_multi real mean power error: 0.19800536334514618 valid loss 1.8115710190613754e-05
+37150 mean_square_loss: 1.4986731002863962e-06
+mean_multi real mean power error: 0.18949070572853088 valid loss 1.703608359093778e-05
+37160 mean_square_loss: 3.3330868518532952e-06
+mean_multi real mean power error: 0.2008582353591919 valid loss 1.6433779819635674e-05
+37170 mean_square_loss: 4.226416422170587e-06
+mean_multi real mean power error: 0.22157713770866394 valid loss 1.7109778127633035e-05
+37180 mean_square_loss: 4.438199539436027e-06
+mean_multi real mean power error: 0.18219326436519623 valid loss 1.6697109458618797e-05
+37190 mean_square_loss: 1.373636769130826e-05
+mean_multi real mean power error: 0.22074466943740845 valid loss 1.88919384527253e-05
+37200 mean_square_loss: 1.6350117221008986e-05
+mean_multi real mean power error: 0.22300273180007935 valid loss 1.735533442115411e-05
+37210 mean_square_loss: 1.6931910067796707e-05
+mean_multi real mean power error: 0.18780142068862915 valid loss 1.691018042038195e-05
+37220 mean_square_loss: 6.734044291079044e-06
+mean_multi real mean power error: 0.2126951962709427 valid loss 2.0741195839946158e-05
+37230 mean_square_loss: 4.331996933615301e-06
+mean_multi real mean power error: 0.18448249995708466 valid loss 1.755038829287514e-05
+37240 mean_square_loss: 9.58139935391955e-06
+mean_multi real mean power error: 0.19533154368400574 valid loss 1.811647234717384e-05
+37250 mean_square_loss: 2.3052138203638606e-05
+mean_multi real mean power error: 0.21077051758766174 valid loss 1.8951042875414714e-05
+37260 mean_square_loss: 1.4774897863389924e-05
+mean_multi real mean power error: 0.18772977590560913 valid loss 1.5576290024910122e-05
+37270 mean_square_loss: 2.092481190629769e-05
+mean_multi real mean power error: 0.17505726218223572 valid loss 1.5513536709477194e-05
+37280 mean_square_loss: 1.2623564543901011e-05
+mean_multi real mean power error: 0.1868412345647812 valid loss 1.687969961494673e-05
+37290 mean_square_loss: 5.792935098725138e-06
+mean_multi real mean power error: 0.18819361925125122 valid loss 1.7489968740846962e-05
+37300 mean_square_loss: 3.933957941626431e-06
+mean_multi real mean power error: 0.16597892343997955 valid loss 1.6924515875871293e-05
+37310 mean_square_loss: 1.4143678527034353e-05
+mean_multi real mean power error: 0.1908409148454666 valid loss 1.9111772417090833e-05
+37320 mean_square_loss: 7.920354619272985e-06
+mean_multi real mean power error: 0.18203651905059814 valid loss 1.770077142282389e-05
+37330 mean_square_loss: 9.019698154588696e-06
+mean_multi real mean power error: 0.23197662830352783 valid loss 1.8652373910299502e-05
+37340 mean_square_loss: 1.0791073691507336e-05
+mean_multi real mean power error: 0.2305886298418045 valid loss 2.0680543457274325e-05
+37350 mean_square_loss: 1.251811318070395e-05
+mean_multi real mean power error: 0.21500664949417114 valid loss 1.6910998965613544e-05
+37360 mean_square_loss: 2.0192772353766486e-05
+mean_multi real mean power error: 0.22310641407966614 valid loss 1.9109704226139e-05
+37370 mean_square_loss: 9.509947631158866e-06
+mean_multi real mean power error: 0.1797555536031723 valid loss 1.6751644579926506e-05
+37380 mean_square_loss: 6.739784112141933e-06
+mean_multi real mean power error: 0.21155580878257751 valid loss 1.7844631656771526e-05
+37390 mean_square_loss: 3.78357935915119e-06
+mean_multi real mean power error: 0.21879513561725616 valid loss 1.9661740225274116e-05
+37400 mean_square_loss: 1.3065103303233627e-05
+mean_multi real mean power error: 0.204023540019989 valid loss 1.765709021128714e-05
+37410 mean_square_loss: 1.890406110760523e-06
+mean_multi real mean power error: 0.18502312898635864 valid loss 1.854608672147151e-05
+37420 mean_square_loss: 3.099835794273531e-06
+mean_multi real mean power error: 0.1833898425102234 valid loss 1.7375554307363927e-05
+37430 mean_square_loss: 5.6564808801340405e-06
+mean_multi real mean power error: 0.19594670832157135 valid loss 1.7331272829324007e-05
+37440 mean_square_loss: 1.1823325621662661e-05
+mean_multi real mean power error: 0.18727847933769226 valid loss 1.6918320397962816e-05
+37450 mean_square_loss: 3.3418564271414652e-06
+mean_multi real mean power error: 0.20733457803726196 valid loss 1.8476179320714436e-05
+37460 mean_square_loss: 3.996524355898146e-06
+mean_multi real mean power error: 0.21655206382274628 valid loss 1.8660284695215523e-05
+37470 mean_square_loss: 1.0142864994122647e-05
+mean_multi real mean power error: 0.18722276389598846 valid loss 2.3286296709557064e-05
+37480 mean_square_loss: 1.4974331861594692e-05
+mean_multi real mean power error: 0.19028796255588531 valid loss 2.3277314539882354e-05
+37490 mean_square_loss: 1.926747791003436e-05
+mean_multi real mean power error: 0.2746715247631073 valid loss 2.181628042308148e-05
+37500 mean_square_loss: 5.402504939411301e-06
+mean_multi real mean power error: 0.20977596938610077 valid loss 1.981167406484019e-05
+37510 mean_square_loss: 1.2461413462006021e-05
+mean_multi real mean power error: 0.23124198615550995 valid loss 2.1819612811668776e-05
+37520 mean_square_loss: 2.2809703295934014e-05
+mean_multi real mean power error: 0.20409294962882996 valid loss 1.9596984202507883e-05
+37530 mean_square_loss: 1.5331950635300018e-05
+mean_multi real mean power error: 0.20133474469184875 valid loss 2.1996431314619258e-05
+37540 mean_square_loss: 8.561911272408906e-06
+mean_multi real mean power error: 0.21343526244163513 valid loss 1.7731423213263042e-05
+37550 mean_square_loss: 4.793988409801386e-06
+mean_multi real mean power error: 0.17946474254131317 valid loss 1.7217542335856706e-05
+37560 mean_square_loss: 1.1591317161219195e-05
+mean_multi real mean power error: 0.18829986453056335 valid loss 2.4770792151684873e-05
+37570 mean_square_loss: 2.003482040890958e-05
+mean_multi real mean power error: 0.23517440259456635 valid loss 2.3578646505484357e-05
+37580 mean_square_loss: 8.916063961805776e-06
+mean_multi real mean power error: 0.17662107944488525 valid loss 2.103838778566569e-05
+37590 mean_square_loss: 3.710677219714853e-06
+mean_multi real mean power error: 0.19868220388889313 valid loss 1.8933247702079825e-05
+37600 mean_square_loss: 4.50207335234154e-06
+mean_multi real mean power error: 0.19265688955783844 valid loss 1.716969745757524e-05
+37610 mean_square_loss: 2.8215574729983928e-06
+mean_multi real mean power error: 0.1742429882287979 valid loss 2.0248015061952174e-05
+37620 mean_square_loss: 4.684306986746378e-06
+mean_multi real mean power error: 0.22289974987506866 valid loss 2.154933645215351e-05
+37630 mean_square_loss: 3.533343260642141e-05
+mean_multi real mean power error: 0.19168993830680847 valid loss 1.785497624950949e-05
+37640 mean_square_loss: 2.2802661987952888e-05
+mean_multi real mean power error: 0.17702381312847137 valid loss 1.6776517441030592e-05
+37650 mean_square_loss: 2.5551198632456362e-05
+mean_multi real mean power error: 0.1855437457561493 valid loss 1.8094908227794804e-05
+37660 mean_square_loss: 4.603582056006417e-06
+mean_multi real mean power error: 0.1837596744298935 valid loss 1.6042758943513036e-05
+37670 mean_square_loss: 9.586812666384503e-06
+mean_multi real mean power error: 0.21223120391368866 valid loss 2.110965215251781e-05
+37680 mean_square_loss: 5.371215138438856e-06
+mean_multi real mean power error: 0.18791082501411438 valid loss 1.8282938981428742e-05
+37690 mean_square_loss: 8.773487024882343e-06
+mean_multi real mean power error: 0.18949942290782928 valid loss 1.6458034224342555e-05
+37700 mean_square_loss: 8.808807251625694e-06
+mean_multi real mean power error: 0.20127834379673004 valid loss 2.244749884994235e-05
+37710 mean_square_loss: 1.0612055120873265e-05
+mean_multi real mean power error: 0.22241879999637604 valid loss 2.3749240426695906e-05
+37720 mean_square_loss: 7.052756245684577e-06
+mean_multi real mean power error: 0.22989203035831451 valid loss 1.8512555470806547e-05
+37730 mean_square_loss: 2.5353168894071132e-05
+mean_multi real mean power error: 0.2074902504682541 valid loss 1.8532231479184702e-05
+37740 mean_square_loss: 8.677545338287018e-06
+mean_multi real mean power error: 0.17445553839206696 valid loss 1.56139831233304e-05
+37750 mean_square_loss: 5.452521236293251e-06
+mean_multi real mean power error: 0.23149153590202332 valid loss 1.7356984244543128e-05
+37760 mean_square_loss: 1.9865294234477915e-05
+mean_multi real mean power error: 0.16609255969524384 valid loss 1.5979310774127953e-05
+37770 mean_square_loss: 5.910557774768677e-06
+mean_multi real mean power error: 0.2235948145389557 valid loss 1.8325215933145955e-05
+37780 mean_square_loss: 8.848705874697771e-06
+mean_multi real mean power error: 0.17541640996932983 valid loss 1.651507591304835e-05
+37790 mean_square_loss: 2.2500789782498032e-05
+mean_multi real mean power error: 0.18667834997177124 valid loss 1.7816622857935727e-05
+37800 mean_square_loss: 2.48834076046478e-05
+mean_multi real mean power error: 0.2554818391799927 valid loss 1.8659817214938812e-05
+37810 mean_square_loss: 2.3951722596393665e-06
+mean_multi real mean power error: 0.19621644914150238 valid loss 1.7617387129575945e-05
+37820 mean_square_loss: 1.2432704352249857e-05
+mean_multi real mean power error: 0.1916070282459259 valid loss 1.8953398466692306e-05
+37830 mean_square_loss: 5.818060890305787e-05
+mean_multi real mean power error: 0.20929227769374847 valid loss 2.1002557332394645e-05
+37840 mean_square_loss: 2.8556725737871602e-05
+mean_multi real mean power error: 0.25559648871421814 valid loss 2.5555555112077855e-05
+37850 mean_square_loss: 7.670521881664172e-06
+mean_multi real mean power error: 0.20947350561618805 valid loss 2.020060856011696e-05
+37860 mean_square_loss: 2.519746522011701e-05
+mean_multi real mean power error: 0.2005438208580017 valid loss 1.8436176105751656e-05
+37870 mean_square_loss: 6.438589934987249e-06
+mean_multi real mean power error: 0.18411438167095184 valid loss 1.6954076272668317e-05
+37880 mean_square_loss: 9.251833034795709e-06
+mean_multi real mean power error: 0.2607170343399048 valid loss 1.9118246200378053e-05
+37890 mean_square_loss: 1.9279777916381136e-06
+mean_multi real mean power error: 0.1986425817012787 valid loss 1.7340384147246368e-05
+37900 mean_square_loss: 1.1570106835279148e-05
+mean_multi real mean power error: 0.1729150116443634 valid loss 1.6905136362765916e-05
+37910 mean_square_loss: 2.4804905933706323e-06
+mean_multi real mean power error: 0.20147641003131866 valid loss 1.856592825788539e-05
+37920 mean_square_loss: 5.26537178302533e-06
+mean_multi real mean power error: 0.1843460500240326 valid loss 1.782929030014202e-05
+37930 mean_square_loss: 3.3000956136675086e-06
+mean_multi real mean power error: 0.2177266627550125 valid loss 2.069028778350912e-05
+37940 mean_square_loss: 1.0660424777597655e-05
+mean_multi real mean power error: 0.2053920179605484 valid loss 2.036470868915785e-05
+37950 mean_square_loss: 7.934493623906747e-06
+mean_multi real mean power error: 0.20182713866233826 valid loss 2.0846253391937353e-05
+37960 mean_square_loss: 3.739008207048755e-06
+mean_multi real mean power error: 0.23040084540843964 valid loss 2.017079714278225e-05
+37970 mean_square_loss: 6.099920028646011e-06
+mean_multi real mean power error: 0.18656571209430695 valid loss 2.1131303583388217e-05
+37980 mean_square_loss: 9.006535037769936e-06
+mean_multi real mean power error: 0.20325317978858948 valid loss 1.98335837922059e-05
+37990 mean_square_loss: 2.3610618882230483e-06
+mean_multi real mean power error: 0.19552215933799744 valid loss 1.646426972001791e-05
+38000 mean_square_loss: 1.792688090063166e-05
+mean_multi real mean power error: 0.17545190453529358 valid loss 1.663367402215954e-05
+38010 mean_square_loss: 1.5032468581921421e-05
+mean_multi real mean power error: 0.20375999808311462 valid loss 2.0214713003952056e-05
+38020 mean_square_loss: 1.2518558833107818e-05
+mean_multi real mean power error: 0.2190658301115036 valid loss 1.9392533431528136e-05
+38030 mean_square_loss: 3.5042280615016352e-06
+mean_multi real mean power error: 0.19478963315486908 valid loss 1.7213093087775633e-05
+38040 mean_square_loss: 4.654774329537759e-06
+mean_multi real mean power error: 0.19025209546089172 valid loss 1.6650041288812645e-05
+38050 mean_square_loss: 5.9900676205870695e-06
+mean_multi real mean power error: 0.20144978165626526 valid loss 1.764098124112934e-05
+38060 mean_square_loss: 3.104895222350024e-05
+mean_multi real mean power error: 0.22261561453342438 valid loss 1.994768354052212e-05
+38070 mean_square_loss: 8.647407412354369e-06
+mean_multi real mean power error: 0.17029564082622528 valid loss 1.6475687516503967e-05
+38080 mean_square_loss: 1.079082994692726e-05
+mean_multi real mean power error: 0.22247785329818726 valid loss 1.7358304830850102e-05
+38090 mean_square_loss: 7.56422923586797e-06
+mean_multi real mean power error: 0.16128015518188477 valid loss 1.5651054127374664e-05
+38100 mean_square_loss: 4.172693024884211e-06
+mean_multi real mean power error: 0.2550789415836334 valid loss 1.9880570107488893e-05
+38110 mean_square_loss: 4.246280695952009e-06
+mean_multi real mean power error: 0.16761204600334167 valid loss 1.74130909726955e-05
+38120 mean_square_loss: 5.622304797725519e-06
+mean_multi real mean power error: 0.24876952171325684 valid loss 2.2708658434567042e-05
+38130 mean_square_loss: 9.9903290902148e-06
+mean_multi real mean power error: 0.1694476306438446 valid loss 1.7768339603208005e-05
+38140 mean_square_loss: 1.2197594514873344e-05
+mean_multi real mean power error: 0.21307262778282166 valid loss 1.822864760470111e-05
+38150 mean_square_loss: 7.624048521392979e-06
+mean_multi real mean power error: 0.21746529638767242 valid loss 1.7178586858790368e-05
+38160 mean_square_loss: 7.610050488437992e-06
+mean_multi real mean power error: 0.16986091434955597 valid loss 1.5769235687912442e-05
+38170 mean_square_loss: 4.41439806309063e-06
+mean_multi real mean power error: 0.20425984263420105 valid loss 1.7483118426753208e-05
+38180 mean_square_loss: 4.002204605058068e-06
+mean_multi real mean power error: 0.20098595321178436 valid loss 1.8541928511695005e-05
+38190 mean_square_loss: 8.97116115083918e-06
+mean_multi real mean power error: 0.201365128159523 valid loss 1.743464235914871e-05
+38200 mean_square_loss: 1.8970527889905497e-05
+mean_multi real mean power error: 0.18658606708049774 valid loss 1.5647488908143714e-05
+38210 mean_square_loss: 5.32693047716748e-06
+mean_multi real mean power error: 0.18031470477581024 valid loss 1.5575362340314314e-05
+38220 mean_square_loss: 9.733652404975146e-06
+mean_multi real mean power error: 0.17067012190818787 valid loss 1.690408680588007e-05
+38230 mean_square_loss: 2.4807544832583517e-05
+mean_multi real mean power error: 0.20855875313282013 valid loss 1.8330058082938194e-05
+38240 mean_square_loss: 3.975510026066331e-06
+mean_multi real mean power error: 0.17663249373435974 valid loss 1.6683021385688335e-05
+38250 mean_square_loss: 2.9492173780454323e-05
+mean_multi real mean power error: 0.20917333662509918 valid loss 1.7703589037409984e-05
+38260 mean_square_loss: 4.93382640343043e-06
+mean_multi real mean power error: 0.1713501214981079 valid loss 1.581510150572285e-05
+38270 mean_square_loss: 5.9062485888716765e-06
+mean_multi real mean power error: 0.22129979729652405 valid loss 1.7342830687994137e-05
+38280 mean_square_loss: 5.645667442877311e-06
+mean_multi real mean power error: 0.21480920910835266 valid loss 1.6595258784946054e-05
+38290 mean_square_loss: 7.292738700925838e-06
+mean_multi real mean power error: 0.20915482938289642 valid loss 1.6711737771402113e-05
+38300 mean_square_loss: 2.8761867270077346e-06
+mean_multi real mean power error: 0.1933746337890625 valid loss 1.6155476259882562e-05
+38310 mean_square_loss: 9.03127329365816e-06
+mean_multi real mean power error: 0.18285037577152252 valid loss 1.8227459804620594e-05
+38320 mean_square_loss: 5.672680345014669e-06
+mean_multi real mean power error: 0.21485117077827454 valid loss 1.8184775399276987e-05
+38330 mean_square_loss: 5.726672043238068e-06
+mean_multi real mean power error: 0.18824967741966248 valid loss 1.68650640262058e-05
+38340 mean_square_loss: 4.479440576687921e-06
+mean_multi real mean power error: 0.17402653396129608 valid loss 1.595115099917166e-05
+38350 mean_square_loss: 2.7784968551713973e-05
+mean_multi real mean power error: 0.19763807952404022 valid loss 1.5737745343358256e-05
+38360 mean_square_loss: 4.325116606196389e-06
+mean_multi real mean power error: 0.1878989189863205 valid loss 1.6779791621956974e-05
+38370 mean_square_loss: 1.2909433280583471e-05
+mean_multi real mean power error: 0.19706879556179047 valid loss 1.6547941413591616e-05
+38380 mean_square_loss: 2.4263224986498244e-05
+mean_multi real mean power error: 0.19275645911693573 valid loss 1.7138676412287168e-05
+38390 mean_square_loss: 3.236645625293022e-06
+mean_multi real mean power error: 0.1727360486984253 valid loss 1.660294037719723e-05
+38400 mean_square_loss: 2.351148168600048e-06
+mean_multi real mean power error: 0.20069538056850433 valid loss 1.833656097005587e-05
+38410 mean_square_loss: 1.1364489182597026e-05
+mean_multi real mean power error: 0.18320946395397186 valid loss 1.740010156936478e-05
+38420 mean_square_loss: 6.406275133485906e-06
+mean_multi real mean power error: 0.17347227036952972 valid loss 1.6685375157976523e-05
+38430 mean_square_loss: 9.44207113207085e-06
+mean_multi real mean power error: 0.18398785591125488 valid loss 1.7367776308674365e-05
+38440 mean_square_loss: 3.235616532037966e-06
+mean_multi real mean power error: 0.181667298078537 valid loss 1.5488343706238084e-05
+38450 mean_square_loss: 3.0108305963949533e-06
+mean_multi real mean power error: 0.192422553896904 valid loss 1.656419954088051e-05
+38460 mean_square_loss: 3.780886572712916e-06
+mean_multi real mean power error: 0.18297913670539856 valid loss 1.855509981396608e-05
+38470 mean_square_loss: 1.5368996173492633e-05
+mean_multi real mean power error: 0.20618177950382233 valid loss 1.829961001931224e-05
+38480 mean_square_loss: 6.848016710137017e-06
+mean_multi real mean power error: 0.17198589444160461 valid loss 1.6686341041349806e-05
+38490 mean_square_loss: 1.2514411537267733e-05
+mean_multi real mean power error: 0.19615605473518372 valid loss 1.8686207113205455e-05
+38500 mean_square_loss: 2.9652188459294848e-05
+mean_multi real mean power error: 0.19685779511928558 valid loss 1.6859361494425684e-05
+38510 mean_square_loss: 1.3519318599719554e-05
+mean_multi real mean power error: 0.19913098216056824 valid loss 1.5713112588855438e-05
+38520 mean_square_loss: 5.601000339083839e-06
+mean_multi real mean power error: 0.21659038960933685 valid loss 1.67475882335566e-05
+38530 mean_square_loss: 5.1574379540397786e-06
+mean_multi real mean power error: 0.17140908539295197 valid loss 1.5453952073585242e-05
+38540 mean_square_loss: 1.9866223738063127e-05
+mean_multi real mean power error: 0.19728244841098785 valid loss 1.630251426831819e-05
+38550 mean_square_loss: 6.409068646462401e-06
+mean_multi real mean power error: 0.1752128154039383 valid loss 1.6685475202393718e-05
+38560 mean_square_loss: 4.13306406699121e-06
+mean_multi real mean power error: 0.17997273802757263 valid loss 1.56191126734484e-05
+38570 mean_square_loss: 8.94895401870599e-06
+mean_multi real mean power error: 0.16273444890975952 valid loss 1.503852126916172e-05
+38580 mean_square_loss: 2.9414370601443807e-06
+mean_multi real mean power error: 0.16614128649234772 valid loss 1.569573396409396e-05
+38590 mean_square_loss: 2.6049026473629056e-06
+mean_multi real mean power error: 0.1856718212366104 valid loss 1.5696392438258044e-05
+38600 mean_square_loss: 8.806271580397151e-06
+mean_multi real mean power error: 0.1673545390367508 valid loss 1.5306837667594664e-05
+38610 mean_square_loss: 1.3858271813660394e-05
+mean_multi real mean power error: 0.17577926814556122 valid loss 1.556908136990387e-05
+38620 mean_square_loss: 2.5434587769268546e-06
+mean_multi real mean power error: 0.16934244334697723 valid loss 1.514138602942694e-05
+38630 mean_square_loss: 8.426281056017615e-06
+mean_multi real mean power error: 0.1979655921459198 valid loss 1.576579234097153e-05
+38640 mean_square_loss: 3.048018015761045e-06
+mean_multi real mean power error: 0.1624392718076706 valid loss 1.4872734027449042e-05
+38650 mean_square_loss: 1.3328413842828013e-05
+mean_multi real mean power error: 0.19001714885234833 valid loss 1.63181648531463e-05
+38660 mean_square_loss: 6.8116387410555035e-06
+mean_multi real mean power error: 0.17854417860507965 valid loss 1.5880264982115477e-05
+38670 mean_square_loss: 1.0802966244227719e-05
+mean_multi real mean power error: 0.1769065111875534 valid loss 1.5715511835878715e-05
+38680 mean_square_loss: 2.5057959192054113e-06
+mean_multi real mean power error: 0.1716233640909195 valid loss 1.546196472190786e-05
+38690 mean_square_loss: 2.7983116979157785e-06
+mean_multi real mean power error: 0.21670682728290558 valid loss 1.6989717551041394e-05
+38700 mean_square_loss: 3.290873792138882e-06
+mean_multi real mean power error: 0.184325709939003 valid loss 1.7249538359465078e-05
+38710 mean_square_loss: 2.2172184799273964e-06
+mean_multi real mean power error: 0.21026450395584106 valid loss 1.739817344059702e-05
+38720 mean_square_loss: 2.2217589048523223e-06
+mean_multi real mean power error: 0.21265356242656708 valid loss 1.7393082089256495e-05
+38730 mean_square_loss: 7.563221515738405e-06
+mean_multi real mean power error: 0.19062107801437378 valid loss 2.8851036404375918e-05
+38740 mean_square_loss: 1.2884441275673453e-05
+mean_multi real mean power error: 0.25160667300224304 valid loss 2.694342765607871e-05
+38750 mean_square_loss: 1.0222750461252872e-05
+mean_multi real mean power error: 0.1873241662979126 valid loss 1.8749249647953548e-05
+38760 mean_square_loss: 4.597734459821368e-06
+mean_multi real mean power error: 0.18971656262874603 valid loss 1.7903927073348314e-05
+38770 mean_square_loss: 9.167192729364615e-06
+mean_multi real mean power error: 0.23120595514774323 valid loss 1.8793325580190867e-05
+38780 mean_square_loss: 3.825335170404287e-06
+mean_multi real mean power error: 0.19084931910037994 valid loss 1.7121519704232924e-05
+38790 mean_square_loss: 1.1753753824450541e-05
+mean_multi real mean power error: 0.20914550125598907 valid loss 1.7388807464158162e-05
+38800 mean_square_loss: 9.98576888378011e-06
+mean_multi real mean power error: 0.19317877292633057 valid loss 1.7098927855840884e-05
+38810 mean_square_loss: 2.7212427085032687e-06
+mean_multi real mean power error: 0.18049144744873047 valid loss 1.6455340301035903e-05
+38820 mean_square_loss: 9.498373401584104e-06
+mean_multi real mean power error: 0.16841869056224823 valid loss 1.5866668036323972e-05
+38830 mean_square_loss: 1.5804070017111371e-06
+mean_multi real mean power error: 0.17623206973075867 valid loss 1.5268637071130797e-05
+38840 mean_square_loss: 8.433657058048993e-06
+mean_multi real mean power error: 0.1941404789686203 valid loss 1.757680183800403e-05
+38850 mean_square_loss: 8.247852383647114e-05
+mean_multi real mean power error: 0.18246445059776306 valid loss 1.5631385394954123e-05
+38860 mean_square_loss: 3.1735128231957788e-06
+mean_multi real mean power error: 0.1857660412788391 valid loss 1.645363045099657e-05
+38870 mean_square_loss: 3.034682322322624e-06
+mean_multi real mean power error: 0.20040690898895264 valid loss 1.7354715964756906e-05
+38880 mean_square_loss: 4.041316969960462e-06
+mean_multi real mean power error: 0.1754719763994217 valid loss 1.51479835039936e-05
+38890 mean_square_loss: 9.972767657018267e-06
+mean_multi real mean power error: 0.17835082113742828 valid loss 1.5196004824247211e-05
+38900 mean_square_loss: 4.501007879298413e-06
+mean_multi real mean power error: 0.18383893370628357 valid loss 1.4955461665522307e-05
+38910 mean_square_loss: 1.994035301322583e-06
+mean_multi real mean power error: 0.16182608902454376 valid loss 1.4991663192631677e-05
+38920 mean_square_loss: 6.0679753914882895e-06
+mean_multi real mean power error: 0.2071608155965805 valid loss 1.6916421373025514e-05
+38930 mean_square_loss: 4.246002845320618e-06
+mean_multi real mean power error: 0.17045190930366516 valid loss 1.5998699382180348e-05
+38940 mean_square_loss: 4.560396973829484e-06
+mean_multi real mean power error: 0.17162412405014038 valid loss 1.5658612028346397e-05
+38950 mean_square_loss: 2.3366344521491555e-06
+mean_multi real mean power error: 0.18161384761333466 valid loss 1.602370321052149e-05
+38960 mean_square_loss: 2.4860951270966325e-06
+mean_multi real mean power error: 0.1856176108121872 valid loss 1.6196649085031822e-05
+38970 mean_square_loss: 1.1213751349714585e-05
+mean_multi real mean power error: 0.189139261841774 valid loss 1.6251444321824238e-05
+38980 mean_square_loss: 1.1530770507306443e-06
+mean_multi real mean power error: 0.17137302458286285 valid loss 1.615778455743566e-05
+38990 mean_square_loss: 7.575619747512974e-06
+mean_multi real mean power error: 0.1810290515422821 valid loss 1.5960038581397384e-05
+39000 mean_square_loss: 2.9805025860696333e-06
+mean_multi real mean power error: 0.16854137182235718 valid loss 1.655770574870985e-05
+39010 mean_square_loss: 6.980920261412393e-06
+mean_multi real mean power error: 0.19277238845825195 valid loss 1.612493724678643e-05
+39020 mean_square_loss: 5.893767593079247e-06
+mean_multi real mean power error: 0.1642153412103653 valid loss 1.5575151337543502e-05
+39030 mean_square_loss: 5.832117039972218e-06
+mean_multi real mean power error: 0.20383965969085693 valid loss 1.6943437003646977e-05
+39040 mean_square_loss: 4.7160979192995e-06
+mean_multi real mean power error: 0.1740509271621704 valid loss 1.5650075511075556e-05
+39050 mean_square_loss: 3.0761266316403635e-06
+mean_multi real mean power error: 0.18974968791007996 valid loss 1.7892180039780214e-05
+39060 mean_square_loss: 4.96060420118738e-06
+mean_multi real mean power error: 0.18968212604522705 valid loss 1.6981864973786287e-05
+39070 mean_square_loss: 2.140183596566203e-06
+mean_multi real mean power error: 0.16769801080226898 valid loss 1.630485348869115e-05
+39080 mean_square_loss: 1.5564103250653716e-06
+mean_multi real mean power error: 0.19292278587818146 valid loss 1.6958665582933463e-05
+39090 mean_square_loss: 1.0884195944527164e-05
+mean_multi real mean power error: 0.17653918266296387 valid loss 1.5808862372068688e-05
+39100 mean_square_loss: 5.8935233937518205e-06
+mean_multi real mean power error: 0.1661447435617447 valid loss 1.5415442248922773e-05
+39110 mean_square_loss: 1.6827729041324346e-06
+mean_multi real mean power error: 0.16465544700622559 valid loss 1.5269626601366326e-05
+39120 mean_square_loss: 7.95330197433941e-06
+mean_multi real mean power error: 0.1606246381998062 valid loss 1.52383208842366e-05
+39130 mean_square_loss: 1.3508376468962524e-05
+mean_multi real mean power error: 0.17049197852611542 valid loss 1.5630068446625955e-05
+39140 mean_square_loss: 6.2097151385387406e-06
+mean_multi real mean power error: 0.18045789003372192 valid loss 1.624662399990484e-05
+39150 mean_square_loss: 7.844663741707336e-06
+mean_multi real mean power error: 0.17916159331798553 valid loss 1.6499612684128806e-05
+39160 mean_square_loss: 1.0855265827558469e-05
+mean_multi real mean power error: 0.19130095839500427 valid loss 1.855834671005141e-05
+39170 mean_square_loss: 1.3841511645296123e-05
+mean_multi real mean power error: 0.1762530505657196 valid loss 1.7261072571272962e-05
+39180 mean_square_loss: 6.056409802113194e-06
+mean_multi real mean power error: 0.17150403559207916 valid loss 1.844415601226501e-05
+39190 mean_square_loss: 5.094358130008914e-06
+mean_multi real mean power error: 0.19921770691871643 valid loss 1.7790283891372383e-05
+39200 mean_square_loss: 7.613986326759914e-06
+mean_multi real mean power error: 0.16957314312458038 valid loss 1.6715750462026335e-05
+39210 mean_square_loss: 7.168289357650792e-06
+mean_multi real mean power error: 0.17541810870170593 valid loss 1.5589479517075233e-05
+39220 mean_square_loss: 1.0424256515761954e-06
+mean_multi real mean power error: 0.20776456594467163 valid loss 1.751684794726316e-05
+39230 mean_square_loss: 8.056587830651551e-06
+mean_multi real mean power error: 0.2029157429933548 valid loss 1.7876534911920317e-05
+39240 mean_square_loss: 4.329220246290788e-06
+mean_multi real mean power error: 0.21043629944324493 valid loss 1.822113335947506e-05
+39250 mean_square_loss: 4.892109245702159e-06
+mean_multi real mean power error: 0.206416517496109 valid loss 2.0091563783353195e-05
+39260 mean_square_loss: 1.838867501646746e-05
+mean_multi real mean power error: 0.21223439276218414 valid loss 1.8137372535420582e-05
+39270 mean_square_loss: 8.878939297574107e-06
+mean_multi real mean power error: 0.18346655368804932 valid loss 1.546180465084035e-05
+39280 mean_square_loss: 2.3262955437530763e-05
+mean_multi real mean power error: 0.1973932683467865 valid loss 1.5787685697432607e-05
+39290 mean_square_loss: 4.4918265302840155e-06
+mean_multi real mean power error: 0.19113287329673767 valid loss 1.6533034795429558e-05
+39300 mean_square_loss: 6.050355295883492e-06
+mean_multi real mean power error: 0.20128817856311798 valid loss 1.6963118468993343e-05
+39310 mean_square_loss: 2.936378677986795e-06
+mean_multi real mean power error: 0.16747982800006866 valid loss 1.606582009117119e-05
+39320 mean_square_loss: 4.719601292890729e-06
+mean_multi real mean power error: 0.17897391319274902 valid loss 1.5521376553806476e-05
+39330 mean_square_loss: 5.338556547940243e-06
+mean_multi real mean power error: 0.18383854627609253 valid loss 1.6040901755332015e-05
+39340 mean_square_loss: 5.131460056873038e-06
+mean_multi real mean power error: 0.17599940299987793 valid loss 1.5904754036455415e-05
+39350 mean_square_loss: 7.821018698450644e-06
+mean_multi real mean power error: 0.16489815711975098 valid loss 1.5731782696093433e-05
+39360 mean_square_loss: 1.2640346540138125e-05
+mean_multi real mean power error: 0.25072720646858215 valid loss 1.9177763533662073e-05
+39370 mean_square_loss: 8.613456884631887e-06
+mean_multi real mean power error: 0.2544843852519989 valid loss 1.9289138435851783e-05
+39380 mean_square_loss: 5.572135705733672e-06
+mean_multi real mean power error: 0.21115607023239136 valid loss 1.861389318946749e-05
+39390 mean_square_loss: 8.370367140742019e-06
+mean_multi real mean power error: 0.18116044998168945 valid loss 1.827621781558264e-05
+39400 mean_square_loss: 7.63881325838156e-06
+mean_multi real mean power error: 0.18933257460594177 valid loss 1.7759162801667117e-05
+39410 mean_square_loss: 4.314377292757854e-05
+mean_multi real mean power error: 0.3435041606426239 valid loss 4.997610085410997e-05
+39420 mean_square_loss: 3.0037508622626774e-05
+mean_multi real mean power error: 0.41508570313453674 valid loss 3.263670441810973e-05
+39430 mean_square_loss: 1.0425666232549702e-06
+mean_multi real mean power error: 0.4535443186759949 valid loss 3.133814607281238e-05
+39440 mean_square_loss: 1.2785769285983406e-05
+mean_multi real mean power error: 0.6829269528388977 valid loss 4.5545883040176705e-05
+39450 mean_square_loss: 3.4415264963172376e-05
+mean_multi real mean power error: 0.49736136198043823 valid loss 3.147416646243073e-05
+39460 mean_square_loss: 3.121885583823314e-06
+mean_multi real mean power error: 0.3440932035446167 valid loss 2.7010273697669618e-05
+39470 mean_square_loss: 1.2550993233162444e-05
+mean_multi real mean power error: 0.3409074544906616 valid loss 2.012982622545678e-05
+39480 mean_square_loss: 2.3083626729203388e-05
+mean_multi real mean power error: 0.3828308582305908 valid loss 2.895906800404191e-05
+39490 mean_square_loss: 1.09194570541149e-05
+mean_multi real mean power error: 0.33216628432273865 valid loss 2.3657123165321536e-05
+39500 mean_square_loss: 6.256978849705774e-06
+mean_multi real mean power error: 0.3202345371246338 valid loss 2.3385287931887433e-05
+39510 mean_square_loss: 4.7144658310571685e-06
+mean_multi real mean power error: 0.29570865631103516 valid loss 2.3031556338537484e-05
+39520 mean_square_loss: 8.454561793769244e-06
+mean_multi real mean power error: 0.24016816914081573 valid loss 1.8445623936713673e-05
+39530 mean_square_loss: 4.928760063194204e-06
+mean_multi real mean power error: 0.31777411699295044 valid loss 2.5013376216520555e-05
+39540 mean_square_loss: 2.3714874259894714e-05
+mean_multi real mean power error: 0.26045385003089905 valid loss 2.047203088295646e-05
+39550 mean_square_loss: 9.750130629981868e-06
+mean_multi real mean power error: 0.2435251921415329 valid loss 3.2031974114943296e-05
+39560 mean_square_loss: 1.754096410877537e-05
+mean_multi real mean power error: 0.40674617886543274 valid loss 2.4499226128682494e-05
+39570 mean_square_loss: 1.0564215699560009e-05
+mean_multi real mean power error: 0.3565542995929718 valid loss 2.948694964288734e-05
+39580 mean_square_loss: 1.3998850590724032e-05
+mean_multi real mean power error: 0.27013370394706726 valid loss 4.196257941657677e-05
+39590 mean_square_loss: 6.780667263228679e-06
+mean_multi real mean power error: 0.21259640157222748 valid loss 1.8415434169583023e-05
+39600 mean_square_loss: 9.831484931055456e-06
+mean_multi real mean power error: 0.18805254995822906 valid loss 1.6870893887244165e-05
+39610 mean_square_loss: 4.273265858500963e-06
+mean_multi real mean power error: 0.1688818335533142 valid loss 1.5110796994122211e-05
+39620 mean_square_loss: 2.069950596705894e-06
+mean_multi real mean power error: 0.1511802226305008 valid loss 1.4598342204408254e-05
+39630 mean_square_loss: 3.987570380559191e-06
+mean_multi real mean power error: 0.16234299540519714 valid loss 1.4874073713144753e-05
+39640 mean_square_loss: 5.604726538877003e-06
+mean_multi real mean power error: 0.1568208783864975 valid loss 1.4203518730937503e-05
+39650 mean_square_loss: 2.3557940949103795e-06
+mean_multi real mean power error: 0.19669026136398315 valid loss 1.531802990939468e-05
+39660 mean_square_loss: 5.156059160071891e-06
+mean_multi real mean power error: 0.17566779255867004 valid loss 1.5326490029110573e-05
+39670 mean_square_loss: 3.60760054718412e-06
+mean_multi real mean power error: 0.18693973124027252 valid loss 1.496480490459362e-05
+39680 mean_square_loss: 5.115524800203275e-06
+mean_multi real mean power error: 0.15836189687252045 valid loss 1.4255582755140495e-05
+39690 mean_square_loss: 3.342535592310014e-06
+mean_multi real mean power error: 0.17513586580753326 valid loss 1.4593067135137971e-05
+39700 mean_square_loss: 1.035108925862005e-05
+mean_multi real mean power error: 0.16764791309833527 valid loss 1.4070072211325169e-05
+39710 mean_square_loss: 6.382117135217413e-06
+mean_multi real mean power error: 0.18738602101802826 valid loss 1.4717770682182163e-05
+39720 mean_square_loss: 3.5835196285916027e-06
+mean_multi real mean power error: 0.17125503718852997 valid loss 1.415897440892877e-05
+39730 mean_square_loss: 3.5196485441701952e-06
+mean_multi real mean power error: 0.17315657436847687 valid loss 1.5417394024552777e-05
+39740 mean_square_loss: 2.6132104267162504e-06
+mean_multi real mean power error: 0.16645865142345428 valid loss 1.5449895727215335e-05
+39750 mean_square_loss: 5.691505975846667e-06
+mean_multi real mean power error: 0.17986999452114105 valid loss 1.5625018932041712e-05
+39760 mean_square_loss: 3.490575181785971e-05
+mean_multi real mean power error: 0.19462686777114868 valid loss 1.6411619071732275e-05
+39770 mean_square_loss: 4.5201970351627097e-05
+mean_multi real mean power error: 0.19588607549667358 valid loss 2.0889601728413254e-05
+39780 mean_square_loss: 5.557798795052804e-05
+mean_multi real mean power error: 0.18282635509967804 valid loss 2.4200784537242725e-05
+39790 mean_square_loss: 4.541054295259528e-06
+mean_multi real mean power error: 0.2792598009109497 valid loss 2.446510552545078e-05
+39800 mean_square_loss: 2.1355357603169978e-05
+mean_multi real mean power error: 0.23693446815013885 valid loss 2.310904164914973e-05
+39810 mean_square_loss: 7.440844001393998e-06
+mean_multi real mean power error: 0.1982947587966919 valid loss 2.1322877728380263e-05
+39820 mean_square_loss: 8.853864528646227e-06
+mean_multi real mean power error: 0.22944490611553192 valid loss 2.032547490671277e-05
+39830 mean_square_loss: 2.234678322565742e-05
+mean_multi real mean power error: 0.17054161429405212 valid loss 1.90711780305719e-05
+39840 mean_square_loss: 4.088107289135223e-06
+mean_multi real mean power error: 0.19660475850105286 valid loss 1.9363698811503127e-05
+39850 mean_square_loss: 9.053616849996615e-06
+mean_multi real mean power error: 0.16658280789852142 valid loss 1.809304376365617e-05
+39860 mean_square_loss: 2.9200473363744095e-06
+mean_multi real mean power error: 0.17411640286445618 valid loss 1.865509693743661e-05
+39870 mean_square_loss: 8.672680451127235e-06
+mean_multi real mean power error: 0.17385508120059967 valid loss 1.8131235265173018e-05
+39880 mean_square_loss: 1.9173219698132016e-05
+mean_multi real mean power error: 0.16122034192085266 valid loss 1.8226261090603657e-05
+39890 mean_square_loss: 2.6581731162877986e-06
+mean_multi real mean power error: 0.17528825998306274 valid loss 1.7481983377365395e-05
+39900 mean_square_loss: 8.101033927232493e-06
+mean_multi real mean power error: 0.16256000101566315 valid loss 1.899419839901384e-05
+39910 mean_square_loss: 7.0610776674584486e-06
+mean_multi real mean power error: 0.14704664051532745 valid loss 1.7640184523770586e-05
+39920 mean_square_loss: 5.847224201716017e-06
+mean_multi real mean power error: 0.1552933007478714 valid loss 1.8134214769816026e-05
+39930 mean_square_loss: 2.5010961053339997e-06
+mean_multi real mean power error: 0.15209472179412842 valid loss 1.7880032828543335e-05
+39940 mean_square_loss: 5.845633040735265e-06
+mean_multi real mean power error: 0.17432761192321777 valid loss 1.847174462454859e-05
+39950 mean_square_loss: 4.358493697509402e-06
+mean_multi real mean power error: 0.177625834941864 valid loss 1.7658239812590182e-05
+39960 mean_square_loss: 3.7344084375945386e-06
+mean_multi real mean power error: 0.18282465636730194 valid loss 1.842117853811942e-05
+39970 mean_square_loss: 1.3628745364258066e-05
+mean_multi real mean power error: 0.18776504695415497 valid loss 1.7980533812078647e-05
+39980 mean_square_loss: 6.8000836108694784e-06
+mean_multi real mean power error: 0.16585218906402588 valid loss 1.7744021533872e-05
+39990 mean_square_loss: 5.867546406079782e-06
+mean_multi real mean power error: 0.1724649965763092 valid loss 1.8033386368188076e-05
+

@@ -5,7 +5,7 @@ import torch.nn.functional as F
 import torch.optim as optim
 from torch.autograd import Variable
 import Data
-
+from sklearn import metrics
 
 
 # Model params
@@ -183,10 +183,11 @@ def use_prettained(filename):
     G.load_state_dict(model_dict)
 
 
-use_prettained('GAN_para.pkl')
-#G.load_state_dict(torch.load('params_new_new_noamount 0.942047.pkl'))
-# test_acc(1)
-# test_acc(0)
-train()
+#use_prettained('GAN_para.pkl')
+G.load_state_dict(torch.load('params_new_new_noamount 0.942557.pkl'))
+test_acc(1)
+test_acc(0)
+#train()
+metrics
 #print(G)
 #test_acc(4)

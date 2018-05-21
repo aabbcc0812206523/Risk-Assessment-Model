@@ -1,3 +1,19 @@
+'''
+第二问的GPU运行版本版本 用于判别数据属于违约客户还是正常客户
+
+测试环境：CUDA8.0 + NVIDA TITAN X PASCEL + LINUX UNBUNTU
+
+用来预测信用额度
+
+Predict类提供正向传播和网络结构
+
+train函数用于训练模型
+
+use_prettained用于加载预训练的模型
+
+test_acc提供了正负样本测试和训练集的检验接口
+
+'''
 import numpy as np
 import torch
 import torch.nn as nn
@@ -22,7 +38,7 @@ num_epochs = 100000
 print_interval = 10
 
 
-class Judge(nn.Module):
+class Predict(nn.Module):
     def __init__(self, input_size, hidden_size, output_size):
         super(Judge, self).__init__()
         self.map1 = nn.Linear(input_size, hidden_size)
@@ -64,7 +80,7 @@ def stats(d):
 credible_data = Data.Data('data_1.npy', batch_size=minibatch_size)
 incredible_data = Data.Data('data_2.npy', batch_size=minibatch_size, smote=True)
 test_data = Data.Data('data_3.npy')
-G = Judge(input_size=input_size, hidden_size=hidden_size, output_size=output_size).cuda()
+G = Predict(input_size=input_size, hidden_size=hidden_size, output_size=output_size).cuda()
 
 
 def train():

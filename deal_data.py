@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-'''
+
 df = pd.read_excel("creditdata.xlsx")
 data_1=df[0:284261].as_matrix()[:,2:]
 data_2=df[284262:284727].as_matrix()[:,2:]
@@ -16,10 +16,6 @@ print(a)
 np.concatenate((a,a))
 print(a)
 print(np.shape(a))
-'''
-
-#np.load('data.npy')
-行
 2-284262
 284263-284728
 284729-284808

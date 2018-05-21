@@ -1,5 +1,8 @@
 '''
-第一问的CPU运行版本版本 用于判别数据属于违约客户还是正常客户
+第一问的GPU运行版本版本 用于判别数据属于违约客户还是正常客户
+
+测试环境：CUDA8.0 + NVIDA TITAN X PASCEL + LINUX UNBUNTU
+
 Judge类提供正向传播和网络结构
 
 train函数用于训练模型
@@ -41,7 +44,7 @@ class Judge(nn.Module):
         self.map2_4 = nn.Linear(hidden_size, hidden_size)
         self.map2_5 = nn.Linear(hidden_size, hidden_size)  # new
         self.map2_6 = nn.Linear(hidden_size, hidden_size)  # new
-        #self.map2_7 = nn.Linear(hidden_size, hidden_size)  #
+        self.map2_7 = nn.Linear(hidden_size, hidden_size)  #
         self.map3 = nn.Linear(hidden_size, output_size)
 
     def forward(self, x):
@@ -53,9 +56,9 @@ class Judge(nn.Module):
         x = F.relu(self.map2_4(x))
         x = F.relu(self.map2_5(x))  # new
         x = F.relu(self.map2_6(x))  ##newnew
-        #x = F.relu(self.map2_7(x))  ##newnew
+        x = F.relu(self.map2_7(x))  ##newnew
         #x = F.sigmoid(self.map3(x))  # 服务器上假的
-        x = F.sigmoid(self.map3(x))
+        x = self.map3(x)
         # print('x is ',x)
         # print("x in :",self.map1(x))
         # print(x.size())
@@ -77,7 +80,7 @@ G = Judge(input_size=input_size, hidden_size=hidden_size, output_size=output_siz
 
 
 def train():
-    criterion = nn.BCELoss()
+    criterion = nn.BCEWithLogitsLoss().cuda()# Binary cross entropy: http://pytorch.org/docs/nn.html#bceloss
     optimizer = optim.Adam(G.parameters(), lr=learning_rate, betas=optim_betas)
 
     # print(credible_data.get_train_data()[:, :-1])
@@ -198,11 +201,10 @@ def use_prettained(filename):
     G.load_state_dict(model_dict)
 
 
-# use_prettained('GAN_para.pkl')
-G.load_state_dict(torch.load('params_new_new_noamount 0.942557.pkl'))
-test_acc(1)
-test_acc(0)
+use_prettained('GAN_para.pkl')
+# G.load_state_dict(torch.load('params_new_new_noamount 0.942047.pkl'))
+# test_acc(1)
 # test_acc(0)
-#train()
+train()
 # print(G)
 # test_acc(4)
